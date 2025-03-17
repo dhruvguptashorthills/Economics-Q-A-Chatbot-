@@ -1,0 +1,8 @@
+beautifulsoup4
+faiss-cpu
+google-generativeai
+langchain
+numpy
+pandas
+requests
+sentence-transformers
