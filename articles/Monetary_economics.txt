@@ -1,0 +1,34 @@
+Title: Monetary economics
+
+Monetary economics is the branch of economics that studies the different theories of money: it provides a framework for analyzing money and considers its functions ( as medium of exchange, store of value, and unit of account), and it considers how money can gain acceptance purely because of its convenience as a public good.[1] The discipline has historically prefigured, and remains integrally linked to, macroeconomics.[2] This branch also examines the effects of monetary systems, including regulation of money and associated financial institutions[3] and international aspects.[4]
+
+Modern analysis has attempted to provide microfoundations for the demand for money[5] and to distinguish valid nominal and real monetary relationships for micro or macro uses, including their influence on the aggregate demand for output.[6] Its methods include deriving and testing the implications of money as a substitute for other assets[7] and as based on explicit frictions.[8]
+
+At around the same time in the medieval Islamic world, a vigorous monetary economy was created during the 7th–12th centuries on the basis of the expanding levels of circulation of a stable high-value currency (the dinar). Innovations introduced by Muslim economists, traders and merchants include the earliest uses of credit,[9] cheques, promissory notes,[10] savings accounts, transactional accounts, loaning, trusts, exchange rates, the transfer of credit and debt,[11] and banking institutions for loans and deposits.[11]
+
+In the Indian subcontinent, Sher Shah Suri (1540–1545), introduced a silver coin called a rupiya, weighing 178 grams. Its use was continued by the Mughal rulers.[12] The history of the rupee traces back to Ancient India circa 3rd century BC. Ancient India was one of the earliest issuers of coins in the world,[13] along with the Lydian staters, several other Middle Eastern coinages and the Chinese wen.
+The term is from rūpya, a Sanskrit term for silver coin,[14] from Sanskrit rūpa, beautiful form.[15]
+
+The imperial taka was officially introduced by the monetary reforms of Muhammad bin Tughluq, the emperor of the Delhi Sultanate, in 1329. It was modeled as representative money, a concept pioneered as paper money by the Mongols in China and Persia. The tanka was minted in copper and brass. Its value was exchanged with gold and silver reserves in the imperial treasury. The currency was introduced due to the shortage of metals.[16]
+
+Both the Kabuli rupee and the Kandahari rupee were used as currency in Afghanistan prior to 1891, when they were standardized as the Afghan rupee. The Afghan rupee, which was subdivided into 60 paisas, was replaced by the Afghan afghani in 1925.
+
+Until the middle of the 20th century, Tibet's official currency was also known as the Tibetan rupee.[17]
+
+Serious interest in the concepts behind money occurred during the dramatic period of inflation in the late 15th to early 17th centuries known as the Price Revolution, during which the value of gold fell precipitously, sometimes fluctuating wildly, because of the importation of gold from the New World, primarily by Spain.[citation needed]
+
+At the end of this period, the first modern texts on monetary economics were beginning to appear.
+
+During the eighteenth century, the concept of banknotes became more common in Europe. David Hume referred to it as "this new invention of paper".[18]
+
+In 1705, John Law in Scotland published Money and Trade Considered, which examined the failure of metal-based money during the previous hundred and fifty years. He proposed replacing that system with a land bank system of paper money based on the value of real estate. He succeeded in getting this proposal implemented. However, his bank failed due to a bubble of speculation collapsing into extreme inflation; perhaps because he failed to take the lessons of the Spanish Price Revolution seriously.[citation needed]
+
+In 1720, Isaac Gervaise wrote The System or Theory of the Trade of the World. He criticised mercantilism and state-supported credit for the inflation problems of his era.[citation needed]
+
+Della Moneta, was published by Ferdinando Galiani in 1751, and is arguably the first modern text on economic theory. It was printed twenty-five years before Adam Smith's more famous book, The Wealth of Nations, which touched on some of the same topics. Della Moneta covered many modern monetary concepts, including the value, origin, and regulation of money. It carefully examined the possible causes for money's value to fluctuate.
+
+The year following, 1752, Of the Balance of Trade was published by Hume. He argued that one need not worry about the import or export of goods creating a surplus or shortage of either money or goods because an excess or shortage of money will always increase or decrease demand until equilibrium is reached. In modern economic terms, this is as equilibration through the price–specie flow mechanism.
+
+The foundational concept of any modern theory of money is the understanding that the value of fiat money depends upon exchange and not weight (compare with the Arrow–Debreu model).[19]
+
+Traditionally, research areas in monetary economics have included:

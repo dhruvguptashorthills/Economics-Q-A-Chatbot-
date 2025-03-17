@@ -1,0 +1,2 @@
+Mean Semantic Similarity Score: 0.6745
+Percentage of test cases above threshold: 80.17%

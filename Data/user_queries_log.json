@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2025-03-17 14:34:53",
+        "question": "what is economics",
+        "answer": "Economics is the social science that studies how societies allocate scarce resources to satisfy unlimited wants and needs.  It has many specialized fields, including but not limited to, economic geography, economic history, public choice, energy economics, cultural economics, family economics, institutional economics, and law and economics.  Different fields focus on different aspects, such as market failure, welfare, and the interplay of supply and demand.  It has roots in \"political economy\" and incorporates mathematical methods.\n"
+    },
+    {
+        "timestamp": "2025-03-17 14:35:38",
+        "question": "What is a deflationary spiral?",
+        "answer": "A deflationary spiral is a situation where decreasing prices lead to lower production, which in turn lowers wages and demand, causing further price decreases.  This creates a vicious cycle, where a problem exacerbates its own cause.  It's often associated with economic depressions, like the Great Depression.  The decreasing price level negatively impacts the economy through reduced production, wages, and demand.\n"
+    },
+    {
+        "timestamp": "2025-03-17 14:37:37",
+        "question": "What is the equation for aggregate demand?",
+        "answer": "The equation for aggregate demand is:  AD = C + Ip + G + (X - M)\n\nWhere:\n\n* **C** = Consumer spending\n* **Ip** = Investment spending\n* **G** = Government spending\n* **X** = Exports\n* **M** = Imports\n"
+    },
+    {
+        "timestamp": "2025-03-17 15:35:23",
+        "question": "what is gdp",
+        "answer": "GDP, or Gross Domestic Product, is a measure of the total value of all goods and services produced within a country's borders in a specific time period.  It's a key indicator of a country's economic performance.  Important nuances include that:\n\n* **Different estimations:** Calculating GDP involves complex processes to account for various sectors (public, financial, intangible assets) and changing international conventions.\n* **Real vs. nominal:** Raw GDP data is nominal (current values). Real GDP adjusts for inflation using the GDP deflator.\n* **Per capita GDP:**  GDP can be adjusted for population to show average output per person.\n* **Historical context:**  GDP emerged as a key measurement tool, especially after World War II, and even the way it is calculated has evolved over time.  GNP, a similar measure, was initially preferred.  The switch to GDP reflects a focus on measuring production by residents of the country.\n"
+    },
+    {
+        "timestamp": "2025-03-17 15:49:38",
+        "question": "what is microeconomics",
+        "answer": "Microeconomics is the study of individual organizations, their main objectives, product demand, pricing and output decisions, substitutes, input supply, target consumers, etc.  It's closely related to managerial economics, encompassing concepts like consumer demand and supply, opportunity cost, revenue creation, and cost minimization.  Microeconomics also provides insights into the most effective allocation of resources, guiding business decisions.  Key concepts include supply and demand, marginalism, rational choice theory, opportunity cost, budget constraints, utility, and the theory of the firm.\n"
+    },
+    {
+        "timestamp": "2025-03-17 17:07:26",
+        "question": "What differentiates monopolies from perfect competition?",
+        "answer": "In perfect competition, all participants are \"price takers,\" meaning no single participant can influence the price of a product.  In contrast, monopolies are characterized by a single seller, giving them the ability to influence the price of their product.  This difference in market structure is the key distinction.  Monopolies are a form of imperfect competition, where the single seller holds market power, unlike the many competing sellers in a perfectly competitive market.\n"
+    },
+    {
+        "timestamp": "2025-03-17 17:07:55",
+        "question": "How does fiscal policy influence inflation?",
+        "answer": "Fiscal policy, through deficit spending, can increase demand, potentially leading to inflation, especially at low unemployment rates.  Conversely, reducing the deficit or running a surplus can lower demand and the inflation rate.  However, inflation is not solely caused by fiscal policy; supply-side shocks, past inflation, and inflationary expectations can also contribute.\n"
+    },
+    {
+        "timestamp": "2025-03-17 17:08:15",
+        "question": "What is the impact of tariffs on international trade?",
+        "answer": "Tariffs impact international trade in several ways:\n\n* **Increased prices:** Tariffs raise the price of imported goods, making them less competitive with domestically produced goods.\n* **Reduced imports:**  Higher prices discourage consumers from purchasing imports, potentially leading to a decrease in the volume of imported goods.\n* **Increased domestic production:**  The higher price of imports can incentivize domestic production of those goods, as they become more attractive to consumers.\n* **Trade friction:** Tariffs can spark retaliatory measures from other countries, leading to trade wars and reduced overall trade volumes.\n* **Reduced overall trade:** While tariffs aim to protect domestic industries and reduce reliance on imports, they can also diminish the overall volume of international trade as trade partners retaliate.\n* **Potential for revenue generation:** Tariffs can generate revenue for the government imposing them.\n* **Potential for misallocation of resources:** If tariffs lead to the production of less efficient domestic goods instead of more efficient imports, resources may be misallocated.\n* **Impact on consumers:** Consumers often face higher prices due to tariffs, reducing their purchasing power.\n\n\nThe overall effect of tariffs on international trade is complex and can have both positive (for domestic producers) and negative (for consumers and international trade) consequences.\n"
+    },
+    {
+        "timestamp": "2025-03-17 17:08:39",
+        "question": "How does price elasticity affect consumer demand?",
+        "answer": "Price elasticity of demand describes how sensitive consumer demand is to changes in price.  A high price elasticity means a relatively large change in quantity demanded will occur for a small change in price.  Conversely, a low price elasticity means a small change in quantity demanded for a given price change.  In simpler terms, if the price elasticity is high, consumers are very responsive to price changes, and demand will significantly decrease if the price rises.  If the price elasticity is low, consumers are less responsive to price changes, and demand will not change as much in response to a price change.\n"
+    },
+    {
+        "timestamp": "2025-03-17 17:09:19",
+        "question": "What factors contribute to economic growth?",
+        "answer": "Factors contributing to economic growth include capital accumulation, technological change, labor force growth, elementary, secondary, and higher education, government policy stability, tariffs and subsidies, fair court systems, available infrastructure, medical care, prenatal care, clean water, ease of entry and exit into trade, equality of income distribution, and increases in labor productivity.  Technological progress is a particularly significant driver, as evidenced by Robert Solow's findings regarding the U.S.  \n"
+    }
+]

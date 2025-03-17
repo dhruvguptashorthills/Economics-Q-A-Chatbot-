@@ -1,0 +1,239 @@
+Title: Managerial economics
+
+Managerial economics is a branch of economics involving the application of economic methods in the organizational decision-making process.[1] Economics is the study of the production, distribution, and consumption of goods and services. Managerial economics involves the use of economic theories and principles to make decisions regarding the allocation of scarce resources.[2]
+It guides managers in making decisions relating to the company's customers, competitors, suppliers, and internal operations.[3]
+
+Managers use economic frameworks in order to optimize profits, resource allocation and the overall output of the firm, whilst improving efficiency and minimizing unproductive activities.[4] These frameworks assist organizations to make rational, progressive decisions, by analyzing practical problems at both micro and macroeconomic levels.[5] Managerial decisions involve forecasting (making decisions about the future), which involve levels of risk and uncertainty. However, the assistance of managerial economic techniques aid in informing managers in these decisions.[6]
+
+Managerial economists define managerial economics in several ways:
+
+[3]
+
+The two main purposes of managerial economics are:
+
+The core principles that managerial economist use to achieve the above purposes are:
+
+In order to optimize economic decisions, the use of operations research, mathematical programming, strategic decision making, game theory[8][9] and other computational methods[10] are often involved. The methods listed above are typically used for making quantitate decisions by data analysis techniques.
+
+The theory of Managerial Economics includes a focus on; incentives, business organization, biases, advertising, innovation, uncertainty, pricing, analytics, and competition.[11] In other words, managerial economics is a combination of economics and managerial theory. It helps the manager in decision-making and acts as a link between practice and theory.[12]
+Furthermore, managerial economics provides the tools and techniques that allow managers to make the optimal decisions for any scenario.
+
+Some examples of the types of problems that the tools provided by managerial economics can answer are:
+
+Managerial economics is sometimes referred to as business economics and is a branch of economics that applies microeconomic analysis to decision methods of businesses or other management units to assist managers to make a wide array of multifaceted decisions. The calculation and quantitative analysis draws heavily from techniques such as regression analysis, correlation and calculus.[15]
+
+Microeconomics is the dominant focus behind managerial economics, some of the key aspects include:
+
+The law of supply and demand describes the relationship between producers and consumers of a product.[16] The law suggests that price set by the producer and quantity demanded by a consumer are inversely proportional, meaning an increase in the price set is met by a reduction in demand by the consumer.[16]
+The law further describes that sellers will produce a larger quantity of the good if it sells at a higher price.[16]
+
+Excess demand exists when the quantity of a good demanded is greater than the quantity supplied. Where there is excess demand, sellers can benefit by increasing the price. The inverse applies to excess supply.
+
+Production theory describes the quantity of a good a business chooses to produce.[17] This decision is informed by a variety of factors, including raw material inputs, labor, and capital costs like machinery.[17] The production theory states that a business will strive to employ the cheapest combination of inputs to produce the quantity demanded.
+The production function can be described in its simplest form by the function 
+
+
+
+Q
+=
+F
+[
+L
+,
+K
+]
+
+
+{\displaystyle Q=F[L,K]}
+
+ where Q denotes the firm's production, L is the variable inputs and K is the fixed inputs.[18]
+
+The opportunity cost of a choice is the foregone benefit of the second best choice.[19] Determining the opportunity cost requires detailing the costs and benefits of each action the business is considering to pursue, and the cost of choosing one activity over another.[20] The decision-maker is then in the position to choose the action with the highest payoff.
+
+The principle uses the conjecture of supply and demand to set an accurate price for a good.[21] The aim of price theory is to allocate a price for a good such that the supply of a good is met with equal demand for the product.[21] If a manager sets the price of a good too high, the consumer may think it is not worth the cost and decide not to purchase the good, hence creating excess supply. The opposite occurs when the price is set too low, causing demand for a good to be greater than supply.[21]
+
+Capital investment decisions are a critical factor in an enterprise. They involve determining the rational allocation of funds that will enable an organization to invest in profitable projects or enterprises to improve the efficiency of organizations.[22]
+The rational allocation of funds may include acquiring business, investing in equipment, or determining whether an investment will improve the business at all.[22]
+
+The elasticity of demand is a prominent concept in managerial economics. Established by Alfred Marshall, elasticity of demand describes how sensitive a change in the quantity demanded is given a unit change in price. In his own words, Marshall describes the concept as ‘The elasticity of demand in a market is great or small according to as the amount demanded increases much or little for a given fall in price and diminish much or little for a given rise in price.[23]
+
+The microeconomic principles are useful principles to inform manager's decision making. Managerial economics draws upon all of these analytical tools to make informed business decisions.
+
+The price elasticity of demand is a highly useful tool in managerial economics as it provides managers with the predicted change in demand associated with an increase in the price charged for its goods and services.[24] The price elasticity principle also outlines the changes in demand for goods with changes in the income of a populous.[24]
+
+
+
+
+
+E
+l
+a
+s
+t
+i
+c
+i
+t
+y
+(
+p
+)
+=
+
+E
+
+⟨
+p
+⟩
+
+
+=
+
+
+
+Δ
+Q
+
+/
+
+Q
+
+
+Δ
+P
+
+/
+
+P
+
+
+
+
+
+{\displaystyle Elasticity(p)=E_{\langle p\rangle }={\frac {\Delta Q/Q}{\Delta P/P}}}
+
+
+
+Where 
+
+
+
+Δ
+Q
+
+
+{\displaystyle \Delta Q}
+
+ is the change in quantity demand for the respective change in price 
+
+
+
+Δ
+P
+
+
+{\displaystyle \Delta P}
+
+, with Q and P representing the quantity and price of the good before a change was made.[25]
+The price elasticity is important for managerial economics as it aids in the optimization of marginal revenue of firms.[25]
+
+In economics, marginal refers to the change in revenue and cost by producing one extra unit of output. Both the marginal cost and marginal revenue are extremely important in economics as a firm's profit is maximized when the marginal cost is equal to the marginal revenue.[26] Managers can make business decisions on the output level based on this analysis in order to maximize the profit of the firm.
+
+Marginal Analysis is considered the one of the chief tools in managerial economics which involves comparison between marginal benefits and  marginal costs to come up with optimal variable decisions. Managerial economics uses explanatory variables such as output, price, product quality, advertising, and research and development to maximise net benefits.
+
+The use of econometric analysis has grown with the  development of economics and management, as has the use of differential calculus to determine profit maximisation.[27]
+
+By taking the derivative of a function, the maximum and minimum values of the function are easily determined by setting the derivative equal to zero. This can be applied to a production function to find the quantity of production that maximizes the profit of the firm.[28] This concept is important for managers to understand in order to minimize costs or maximize profits.[29]
+
+The main applications of mathematical models are:
+
+As "the application of economic theory and methods to business decision-making",[30] managerial economics is fundamentally about making decisions. The discipline is partially prescriptive in nature because it suggests a course of action to a managerial problem.[4] Managerial economics aims to provide the tools and techniques to make informed decisions to maximize the profits and minimize the losses of a firm.[4] Managerial economics has use in many different business applications, although the most common focus areas are related to the risk, pricing, production and capital decisions a manager makes.[31] Managers study managerial economics because it gives them the insight to control the operations of their organizations. Organizations will function well if managers rationally apply the principles that apply to economic behavior.[3]
+
+Managerial economics as a science
+
+It is important to understand what pricing decisions should be made regarding the products and services of the firm. Efficient pricing is required to maintain desired levels of revenue and profit, whilst also maintaining customer satisfaction.[36] Setting a price too low reduces profitability, negatively affects the perceived quality of the product, and sets an expectation of price for the consumer. Setting a price too high may negatively affect the image of an organisation from the perspective of the consumer.[37]
+
+Managers may price using intuitive or technocratic decision-making styles. A technocratic approach relies on quantitative analysis and optimisation, and typically involves a compensatory method of evaluation.[38] Compensatory evaluation allows one attribute to compensate for another attribute. For example, a manager may price a product at a lower price to compensate for its lower quality.[39] Intuitive decision-making relies on consumer heuristics, defined as cognitive processes of fast decision-making, which occur by limiting the amount of information analysed.[40]
+
+Economic concepts such as competitive advantage, market segmentation, and price discrimination are relevant to pricing strategy.[30] In order to set a price that drives sales and firm performance, managers must understand the economic environment in which they are operating.[41]
+
+Price discrimination involves selling the same or similar good at different prices to different consumer segments.[42] Consumer segments are separated by a significant variation in the amount they are willing to pay. In order for price discrimination to occur, firms must be able to separate customer segments according to differing price elasticities, have some market power and prevent customers from re-selling the product.[43]
+
+There are three classic types of price discrimination.
+
+Additional forms of price discrimination include bundling, intrapersonal price discrimination and purchase-history price discrimination.[45] A firm's ability to price discriminate effectively can improve their profitability and/or increase their customer base, but only if the conditions required for price discrimination are met.
+
+The Psychology of Pricing is used to understand how pricing affects consumers perception of goods and their willingness to consume. The way a good is priced has implications for the perceived value of that good. Firms can capitalise on consumers willingness to pay by influencing their price perception, reducing the pain of paying and exploiting switching costs.
+
+Consumer's price perception can be altered by priming a smaller number (e.g. pricing a good as $4.99 instead of $5), anchoring to a high reference price or separating costs into individual components (e.g. the price of the good and shipping cost).
+
+Reducing the pain of paying involves strategies to minimise the psychological "pain" individuals feel when spending, due to human's loss averse nature.[46] These include timing strategies, like block payments or charging before consumption, and salience strategies like digital or artificial (e.g. tokens) payments.
+
+Finally, by exploiting switching costs, firms can increase producer surplus and/or keep a larger market share. Switching costs "result from a consumers desire for compatibility between a current purchase and previous investment".[47] However, often consumers fail to switch to the optimal choice because of loss aversion, information deficiencies, procrastination, status-quo bias or endowment effects.[48] This allows firms to exploit this behaviour through strategies such as honeymoon pricing (or introductory rates) and add-on pricing, which involves a cheaper initial purchase but more expensive replacement (like printers and cartridges).
+
+The psychology of pricing provides an explanation for why consumption patterns don't always cohere with the neoclassical understanding, which assumes price and consumption have an inverse relationship.[49]  The Snob Effect, Bandwagon Effect and Veblen Effect are three counter-examples to this assumption.
+
+In order to successfully make organisational decisions, management must have an understanding of consumer behaviour and decision-making. Consumer behaviour relates to buying, using and selling goods, services, time and ideas by decision-making units.[51]
+
+Rational Choice Theory is a decision-making theory, also known as the law-and-economics theory, which applies the assumption that people will try and maximise their outcomes, have well-defined preferences and are consistently rational decision-makers.[52] This theory develops on the Economic Man Theory, which assumed that people respond to stimuli (external factors) to generate a response (outcome). Rational Choice Theory builds on this theory by understanding that the consumer is an information processing decision-maker, however, it fails to incorporate psychological literature and empirical findings on the psychology of human-behaviour.[53]
+
+Rational Choice Theory makes the following assumptions:
+
+These assumptions do not account for circumstances of human error where consumers misinterpret information, or only consider portions of relevant information. The assumption of rational choice theory that when provided with all the required information, consumers will make a rational decision is limited.[53] Instead, understanding bounded rationality, a concept explored in behavioural economics, can assist firms and managers in decision making.
+
+Consumer preferences depend on the state the consumer is in when making the decision. For example, food tastes better when you are hungry or attending a concert is more enjoyable if you are not injured.[54] Most models of state-dependant preferences assume people are aware of the effect their current state has on preference formation in that moment. However, empirical studies suggest this is not always true.[55] Several biases help explain this incongruence.
+
+Beyond biases that influence state-dependent preferences, there is a whole host of cognitive biases that can shape consumer preferences and influence decision making.[58] See cognitive biases for a full list. These biases can have real implications for the effectiveness of firms, public policies and choices generally.[59]
+
+Monetary and non-monetary incentives are used by managers to motivate employees to achieve results aligned with firms' objectives.[60] The outcome of incentives depends on the design and the implementation process of the incentives, their interaction with intrinsic and social motivations, and the behavioural effects of their removal.[61]
+
+In a field experiment analyzing the effects of performance-based monetary incentives, it was shown that productivity improved in line with employees' ability, however, there was an increase in neglect of non-incentivised tasks.[62]
+
+Monetary incentives generally have two kinds of effects, known as the standard direct price effect, and the indirect psychological effect. The standard direct price effect makes incentivised behavior more attractive; and the indirect psychological effect makes incentivised behavior less appealing by relaying important information from principals (manager) to agents (worker) surrounding quality expectations, which can provoke unexpected behavioural outcomes.[61]
+
+Agents receive information from both the size and existence of incentives. For example, offering members of the community high monetary compensation to be in the presence of a nuclear waste site, indicates that there are high risks involved with the plant, making community members less willing to accept the plant even in the presence of monetary incentives.[63] Contrarily, in a famous experiment, a childcare centre introduced a fee of $3 for parents who picked their children up late. The information conveyed to the parents from this incentive was that the small fine indicated being late is not too bad, and in the short run the number of late pick-ups increased. This information persisted when the fee was removed, and parents who had experienced the fine were more likely to pick their child up late than those who had not received the information given by the incentive.[64]
+
+As a general rule however, when incentives are high enough, the standard direct price effect tends to take precedence over the indirect psychological effect, unless incentives are so high that agents form a negative inference of the circumstances.[65]
+
+Where workers are paid at a substantially lower rate to their peers, outputs and attendance can fall out of alignment with organisational objectives. Pay disparity can cause harm to an organisations social culture, cohesion and cooperation, and alter the workplace dynamic significantly. In developing countries where social interactions are heavily relied upon for economic activity, these effects are particularly undesirable.[66] Evidence suggests these consequences can be avoided by clearly justifying pay inequality to workers. Potentially due to self-serving bias, workers are often unwilling to believe they perform at a lower standard than their peers unless shown undeniable evidence.[67] Particularly in settings where employees do not trust their managers, workers may be inclined to suspect favouritism until they are given evidence and justifications.[66]
+
+Tournament theory is used to describe why different pay levels exist between different roles in the business hierarchy. The idea of tournament theory is that agents who put in effort to achieve promotions are rewarded with a higher, non-incremental, pay rate. The reward of a higher pay rate incentivizes behaviour that leads to promotions. This behaviour is often lucrative and therefore ideal for the business.[68] Tournaments can be very powerful at incentivizing performance. Empirical research in economics and managements have shown that tournament-like incentive structure increases the individual performance of workers and managers in the workplace.[69]
+
+However, research has also shown that tournaments consistently disadvantage certain groups, such as women.[70][71] The prevalence of tournament structured competitions for career progression provides an explanation for why women are often underrepresented in high positions. Other studies have investigated gender discrepancies in risk aversion,[72] feedback aversion,[73] overconfidence,[74] self-perception of ability,[75] negotiation skills[76] and self-promotion[77] as further explanations that can contribute to differences in pay despite uniform performance. Managers ability to identify the role of biases in perpetuating inequalities within the workplace can be instrumental in improving firm outcomes.
+
+Game theory is the study where individuals study the different choices agents make with respect to their personal preferences, incentives and benefits.[78]
+
+Demand forecasting assists management in predicting future sales and revenue projection, which inform operations and marketing decisions as well future financial planning.[87] The process of demand forecasting often uses business analytics, particularly predictive analytics, with respect to historical data and other analytical information, to make an accurate estimation. For example, using an estimate of a firm's capital expenditure and cash flow, managers can create forecasts that assist in financial planning and improve the financial health of the firm.[88]
+
+Effective demand management considers factors which are both within and beyond the firm's control, such as disposable income, competition, price, advertising and customer service.[87]
+
+Consumer choice is highly influential on demand analysis, as each consumer aims to maximise their satisfaction with a combination of goods and services, subject to their personal budget constraint.[87] Costs of production
+
+Production costs directly affect a firm's profitability. In order to maximise profits, firms identify the cost minimising output level for a firm where marginal cost equals marginal revenue. The most common types of costs that are factored into this decision include:[89]
+
+The impact of short-run and long run costs are important in determining production in a certain firm
+. It is assumed some costs are fixed in the short-run and are thus considered "fixed costs". Thus production costs are determined by variable costs. However, in the long run, all costs are variable, which allows more flexibility in changing inputs to determine the optimal level of inputs for a profit maximising output.[30]
+
+Profitability management is understanding what makes a firm profitable, and what can be done to improve its profitability.[90] It integrates finance and sales, and aims to optimize sales revenue and marginal cost of the firm. Profit management is technology enabled, as firms must be quick to respond to rapid changing market and to know the true economic cost of its products and services. Management needs to drive cooperation between different functions of the firm such as sales, marketing, and finance, to ensure the teams recognize the importance of coordinated effort. Proper planning and profitability management is key to good business management.[91]
+
+Capital management is the planning, monitoring, and controlling of the assets and liabilities of a firm, particularly, in an effort to maintain cash flow to meet the firm's short-term and long-term financial obligations. Proper capital management is important to the financial health of a firm, with efficient resource allocation through capital management, firms can improve its cash flow and profitability. Capital management involves tracking various ratios within the firm, most important ones include:[92]
+
+Rate of return and cost of capital (i.e. interest rate) are important factors of capital management.[93]
+
+When making decisions, managerial economics is used to analyze the micro and macroeconomic environments relating to an organization. Microeconomics considers the actions of individual firms surrounding utility maximization, whilst Macroeconomics considers the actions and behaviour of the economy as a whole.[5] As such, both area of economics have influence in the development of managerial economic frameworks.
+
+With regard to macroeconomic trends, the forecasting and analysis of areas such as output, unemployment, inflation and societal issues are essential in managerial economics.[94] This is because these areas in the macroeconomy have the ability to provide an overview of global market conditions, which can be imperative for managers to understand.[95] 
+An example of managerial economics using macroeconomic principles is a manager choosing to hire new staff rather than training old ones in a time where the rate of unemployment is high, as the possible talent pool would be very large.[96] The political structure of a country (whether authoritarian or democratic), political stability and attitudes towards the private sector can also affect the growth and development of organizations.[97] This can be seen through the influence different government policies can have on management quality.[96] In particular, policies around product market competition has been seen to significantly impact collective management practices in countries by either reducing or supporting poorly managed firms.[96] A clear understanding of relevant markets and their different conditions is a vital task for a managerial economist, as even with market instability and fluctuations the goal is to always steer the company to profits.[93]
+
+Managerial economics has components of microeconomics
+
+Managers study and manage the internal environment of organisations and work for the profitability and long-term operation of the organisation. This aspect refers to the study of microeconomics. Managerial economics deals with the problems individual organisations face, such as the organisation's main objectives, the demand for its products, the organisation's price and output decisions, available substitutes and giveaways, the supply of inputs and raw materials, the target or potential consumers of its products, etc.[3]
+
+Microeconomics is closely related to Managerial economics through areas such as; consumer demand and supply, opportunity cost, revenue creation and cost minimization.[5] Managerial economics inculcates the application of microeconomics application and makes use of economic theories and methods in analyzing a business and its management. Moreover, managerial economics combines economic tool and technique to solve the managerial problems.[98]
+
+Microeconomics also gives indication on the most effective allocation of resources the business has available.[99]
+These microeconomic theories and considerations are used via managerial economics to make decisions regarding the business. By understanding the principles of microeconomics, managers can be well informed to make accurate decisions regarding the firm.[5]
+
+An example of managerial economics using microeconomic principles is the decision of a manager to increase the price of the goods being sold. A manager should evaluate the price elasticity of the product to equate the respective demand of the product after the price change.[5]
+
+From a management perspective, managerial economics techniques are useful in many areas regarding business decision-making, most commonly including:
