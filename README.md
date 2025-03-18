@@ -117,7 +117,7 @@ python EvaluationAndTesting/Evaluate_model.py
 1. **Web Scraping & Data Collection**
 
    - Extracts articles from predefined URLs using [Scraper.py](https://github.com/dhruvguptashorthills/Economics-Q-A-Chatbot-/blob/main/Scraper/Scraper.py).
-   - Saves articles as text files and compiles structured JSON data.
+   - Saves articles as text files and compiles them into a structured JSON file.
 
 2. **Text Processing & Chunking**
 
@@ -161,18 +161,3 @@ python EvaluationAndTesting/Evaluate_model.py
 ## License
 
 This project is licensed under the MIT License.
-
-
-## Technologies Used
-
-- **Python** (Data processing & LLM integration)
-- **BeautifulSoup, Scrapy** (Web scraping)
-- **FAISS** (Vector database)
-- **OpenAI/Llama Models** (LLM-based responses)
-- **Streamlit** (User interface)
-- **Azure Blob Storage** (Data storage)
-
-## License
-
-This project is licensed under the MIT License.
-
