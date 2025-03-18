@@ -59,7 +59,7 @@ def txt_files_to_json(output_file,folder_path="articles"):
 
 
 if __name__ == "__main__":
-    with open('Scrapper/list.txt', 'r', encoding='utf-8') as file:
+    with open('Scraper/list.txt', 'r', encoding='utf-8') as file:
         urls = json.load(file)
     extract(urls)
     output_file = 'Data/combined_Raw_Data.json'   
