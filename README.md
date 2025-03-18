@@ -77,7 +77,7 @@ RAG project
 Run the web scraper to collect economic articles:
 
 ```bash
-python Scraper/Scraper.py --state <state_name> --district <district_name> --year <year>
+python Scraper/Scraper.py 
 ```
 
 ### 2. Data Processing & Chunking
