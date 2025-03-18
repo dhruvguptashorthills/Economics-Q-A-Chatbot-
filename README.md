@@ -161,7 +161,7 @@ python EvaluationAndTesting/Evaluate_model.py
 The evaluation was conducted using a golden set of 1000+ Q&A pairs to measure the Semantic Similarity Score of the chatbot's responses.
 
    - Mean Semantic Similarity Score: 0.6745
-   - Percentage of test cases above threshold(.5): 80.17%
+   - Percentage of test cases above threshold(0.5): 80.17%
 
 ## Technologies Used
 
