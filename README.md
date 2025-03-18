@@ -111,7 +111,7 @@ The chatbot is evaluated using a predefined **golden set** of 1000+ Q&A pairs. T
 ```bash
 python EvaluationAndTesting/Evaluate_model.py
 ```
-##RAG Architecture
+## RAG Architecture
 
 ![Image](RAG_Architecture.png)
 
