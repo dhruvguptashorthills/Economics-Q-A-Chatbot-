@@ -4,9 +4,9 @@ import json
 import os
 from datetime import datetime
 
+st.set_page_config(page_title="Economics Q&A System")  # Set the title of the website tab
 
-
-json_file = "Logging/user_queries_log.json"
+json_file = "Data/user_queries_log.json"
 
 def save_to_json(timestamp, question, answer):
     data = []
@@ -25,8 +25,8 @@ def save_to_json(timestamp, question, answer):
 
 st.title("Economics Q&A System")
 
-query = st.text_input("Enter your question:")
-if st.button("Get Answer"):
+query = st.text_input("Enter your question:", on_change=lambda: st.session_state.update({"button_pressed": True}))
+if st.session_state.get("button_pressed") or st.button("Get Answer"):
     if query:
         with st.spinner("Fetching answer..."):
             try:
@@ -40,5 +40,6 @@ if st.button("Get Answer"):
 
         st.subheader("Answer:")
         st.write(response)
+        st.session_state["button_pressed"] = False
     else:
         st.warning("Please enter a question.")
