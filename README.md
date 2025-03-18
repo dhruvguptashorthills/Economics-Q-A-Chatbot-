@@ -1,5 +1,6 @@
 # Economics Q&A Chatbot
 
+
 ## Overview
 
 The **Economics Q&A Chatbot** is a Retrieval-Augmented Generation (RAG)-based chatbot that provides answers to questions using economics-related data. The system scrapes articles from a designated website, processes the data into vector embeddings, and utilises an LLM (such as Llama or Open AI) to generate responses.
