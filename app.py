@@ -6,7 +6,7 @@ from datetime import datetime
 
 
 
-json_file = "Data/user_queries_log.json"
+json_file = "Logging/user_queries_log.json"
 
 def save_to_json(timestamp, question, answer):
     data = []
