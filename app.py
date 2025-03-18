@@ -6,7 +6,7 @@ from datetime import datetime
 
 st.set_page_config(page_title="Economics Q&A System")  # Set the title of the website tab
 
-json_file = "Data/user_queries_log.json"
+json_file = "Logging/user_queries_log.json"
 
 def save_to_json(timestamp, question, answer):
     data = []

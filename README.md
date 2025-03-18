@@ -104,13 +104,16 @@ Launch the local Streamlit interface:
 streamlit run app.py
 ```
 
-## Evaluation
+### 5. Evaluation
 
 The chatbot is evaluated using a predefined **golden set** of 1000+ Q&A pairs. To test accuracy:
 
 ```bash
 python EvaluationAndTesting/Evaluate_model.py
 ```
+##RAG Architecture
+
+![Image](RAG_Architecture.png)
 
 ## Functionality
 
