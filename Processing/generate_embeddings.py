@@ -16,7 +16,7 @@ def generate_embeddings(chunks, model_name="all-MiniLM-L6-v2"):
     return texts, embeddings
 
 # Store Embeddings in FAISS
-def store_faiss(embeddings, texts, faiss_index_path="faiss_index"):
+def store_faiss(embeddings, texts, faiss_index_path="Data/faiss_index"):
     dimension = embeddings.shape[1]  # Get embedding vector size
     index = faiss.IndexFlatL2(dimension)  # Create FAISS index
 
