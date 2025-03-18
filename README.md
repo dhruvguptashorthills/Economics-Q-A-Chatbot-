@@ -44,15 +44,45 @@ The **Economics Q&A Chatbot** is a Retrieval-Augmented Generation (RAG)-based ch
 ## Project Structure
 
 ```
-Economics-Q-A-Chatbot/
-│── data/               # Scraped articles and processed text
-│── embeddings/         # Stored vector embeddings
-│── models/             # Pretrained LLM and RAG model
-│── notebooks/          # Jupyter notebooks for development and testing
-│── scripts/            # Python scripts for scraping, processing, and inference
-│── app.py              # Streamlit app entry point
-│── requirements.txt    # Dependencies
-│── README.md           # Project documentation
+RAG project
+├─ Data
+│  ├─ chunked_data.json
+│  ├─ combined_Raw_Data.json
+│  ├─ faiss_index.index
+│  └─ faiss_index.json
+├─ EvaluationAndTesting
+│  ├─ Evaluate_model.py
+│  ├─ Evaluation
+│  │  ├─ CummulativeEvaluationReport.txt
+│  │  └─ EvaluationReport.csv
+│  ├─ Testing_data
+│  │  ├─ generated_answers.csv
+│  │  └─ golden_set.json
+│  ├─ generate_Q&A_set.py
+│  └─ generate_answers.py
+├─ Logging
+│  └─ user_queries_log.json
+├─ Processing
+│  ├─ __pycache__
+│  │  └─ rag_pipeline.cpython-310.pyc
+│  ├─ chunker.py
+│  ├─ generate_embeddings.py
+│  └─ rag_pipeline.py
+├─ README.md
+├─ Scraper
+│  ├─ Scraper.py
+│  └─ list.txt
+├─ app.py
+├─ articles
+│  ├─ Aggregate_demand.txt
+│  ├─ Austerity.txt
+│  ├─ Austrian_school_of_economics.txt
+│  ├─ Balance_of_trade.txt
+│  ├─ Behavioral_economics.txt
+│  ├─ Bond_market.txt
+│  ├─ Central_bank.txt
+│  └─ ...
+└─ requirements.txt
 ```
 
 ## Installation
@@ -84,7 +114,7 @@ Economics-Q-A-Chatbot/
 Run the web scraper to collect economic articles:
 
 ```bash
-python scripts/scraper.py
+python Scraper/Scraper.py --state <state_name> --district <district_name> --year <year>
 ```
 
 ### 2. Data Processing & Chunking
@@ -92,7 +122,7 @@ python scripts/scraper.py
 Clean and split the scraped text into manageable chunks:
 
 ```bash
-python scripts/chunker.py
+python Processing/chunker.py
 ```
 
 ### 3. Data Embedding Generation
@@ -100,7 +130,7 @@ python scripts/chunker.py
 Convert chunked text into vector embeddings:
 
 ```bash
-python scripts/embedder.py
+python Processing/generate_embeddings.py
 ```
 
 ### 4. Start the Chatbot App
@@ -116,7 +146,7 @@ streamlit run app.py
 The chatbot is evaluated using a predefined **golden set** of 1000+ Q&A pairs. To test accuracy:
 
 ```bash
-python scripts/evaluate.py
+python EvaluationAndTesting/Evaluate_model.py
 ```
 
 ## Technologies Used

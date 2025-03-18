@@ -35,10 +35,32 @@ def extract(urls):
             save_article_to_file(title, content, text_folder)
             print(title,"Article extracted and saved")
 
+def txt_files_to_json(output_file,folder_path="articles"):
+    data = []
+
+    try:
+        for file_name in os.listdir(folder_path):
+            if file_name.endswith(".txt"):
+                file_path = os.path.join(folder_path, file_name)
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    content = file.read()
+                    data.append({
+                        "title": file_name,
+                        "content": content
+                    })
+
+        with open(output_file, 'w', encoding='utf-8') as json_file:
+            json.dump(data, json_file, ensure_ascii=False, indent=4)
+
+        print(f"Data successfully written to {output_file}")
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
 
 
-# Example usage
 if __name__ == "__main__":
     with open('Scrapper/list.txt', 'r', encoding='utf-8') as file:
         urls = json.load(file)
     extract(urls)
+    output_file = 'Data/combined_Raw_Data.json'   
+    txt_files_to_json(output_file)

@@ -9,8 +9,8 @@ def load_json(file_path):
 
 # Clean Text (e.g., remove LaTeX expressions)
 def clean_text(text):
-    text = re.sub(r"{\\displaystyle\\s*\\textstyle\s*[^}]+}", "", text)  # Remove LaTeX
-    text = re.sub(r"\s+", " ", text).strip()  # Normalize spaces
+    text = re.sub(r"{\\displaystyle\\s*\\textstyle\s*[^}]+}", "", text)  
+    text = re.sub(r"\s+", " ", text).strip()  
     return text
 
 # Combine all text from JSON into one large string
@@ -22,11 +22,11 @@ def chunk_text(text, chunk_size=1000, chunk_overlap=200):
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=chunk_overlap,
-        separators=["\n\n", ". ", "? ", "! "]  # Ensures sentence-based splitting
+        separators=["\n\n","\n",". ", "? ", "! "]  # Ensures sentence-based splitting
     )
     chunks = text_splitter.split_text(text)
     
-    # Ensure each chunk does not start with a separator
+
     cleaned_chunks = [chunk.lstrip(".?! \n") for chunk in chunks]
     
     return cleaned_chunks
