@@ -77,7 +77,7 @@ RAG project
 Run the web scraper to collect economic articles:
 
 ```bash
-python Scraper/Scraper.py 
+pytho3 Scraper/Scraper.py 
 ```
 
 ### 2. Data Processing & Chunking
@@ -85,7 +85,7 @@ python Scraper/Scraper.py
 Clean and split the scraped text into manageable chunks:
 
 ```bash
-python Processing/chunker.py
+python3 Processing/chunker.py
 ```
 
 ### 3. Data Embedding Generation
@@ -93,7 +93,7 @@ python Processing/chunker.py
 Convert chunked text into vector embeddings:
 
 ```bash
-python Processing/generate_embeddings.py
+python3 Processing/generate_embeddings.py
 ```
 
 ### 4. Start the Chatbot App
