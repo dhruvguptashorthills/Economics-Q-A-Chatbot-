@@ -57,18 +57,21 @@ RAG project
    cd Economics-Q-A-Chatbot-
    ```
 
-2. **Create a Virtual Environment**
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install Dependencies**
+2. **Install Dependencies**
 
    ```bash
    pip install -r requirements.txt
    ```
+
+3. **Add Your Gemini API Key**
+
+   Create a .env file in the root directory of the project and add your Gemini API key:
+
+   ```bash
+   echo "GEMINI_API_KEY=your_api_key_here" > .env
+   ```
+
+   Replace `your_api_key_here` with your Gemini API key.
 
 ## Usage
 
