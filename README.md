@@ -68,16 +68,24 @@ RAG project
    Create a .env file in the root directory of the project and add your Gemini API key:
 
    ```bash
-   echo "GEMINI_API_KEY=your_api_key_here" > .env
+   echo "API_KEY=your_api_key_here" > .env
    ```
 
    Replace `your_api_key_here` with your Gemini API key.
 
-## Usage
+## Start the Chatbot App
+
+Launch the local Streamlit interface:
+
+```bash
+streamlit run app.py
+```
+
+## Other Usage
 
 ### 1. Data Scraping
 
-Run the web scraper to collect economic articles:
+Run the web scraper to collect more economic articles:
 
 ```bash
 pytho3 Scraper/Scraper.py 
@@ -99,15 +107,7 @@ Convert chunked text into vector embeddings:
 python3 Processing/generate_embeddings.py
 ```
 
-### 4. Start the Chatbot App
-
-Launch the local Streamlit interface:
-
-```bash
-streamlit run app.py
-```
-
-### 5. Evaluation
+## Evaluation
 
 The chatbot is evaluated using a predefined **golden set** of 1000+ Q&A pairs. To test accuracy:
 
@@ -154,6 +154,13 @@ python EvaluationAndTesting/Evaluate_model.py
 
    - Provides a real-time interactive UI via [app.py](https://github.com/dhruvguptashorthills/Economics-Q-A-Chatbot-/blob/main/app.py).
    - Logs user queries for tracking interactions.
+
+## Evaluation Result
+
+The evaluation was conducted using a golden set of 1000+ Q&A pairs to measure the Semantic Similarity Score of the chatbot's responses.
+
+   - Mean Semantic Similarity Score: 0.6745
+   - Percentage of test cases above threshold(.5): 80.17%
 
 ## Technologies Used
 
