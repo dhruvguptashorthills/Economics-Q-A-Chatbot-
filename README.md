@@ -53,7 +53,7 @@ RAG project
 
 Watch the demo video to see the Economics Q&A Chatbot in action:
 
-[![Demo Video]](https://www.youtube.com/watch?v=qGUM6cORDSw)
+[https://www.youtube.com/watch?v=qGUM6cORDSw](https://www.youtube.com/watch?v=qGUM6cORDSw)
 
 ## Installation
 
