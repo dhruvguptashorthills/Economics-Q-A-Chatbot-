@@ -48,5 +48,120 @@
         "timestamp": "2025-03-17 17:09:19",
         "question": "What factors contribute to economic growth?",
         "answer": "Factors contributing to economic growth include capital accumulation, technological change, labor force growth, elementary, secondary, and higher education, government policy stability, tariffs and subsidies, fair court systems, available infrastructure, medical care, prenatal care, clean water, ease of entry and exit into trade, equality of income distribution, and increases in labor productivity.  Technological progress is a particularly significant driver, as evidenced by Robert Solow's findings regarding the U.S.  \n"
+    },
+    {
+        "timestamp": "2025-03-19 13:06:56",
+        "question": "define economics",
+        "answer": "Economics is the study of how societies allocate scarce resources to satisfy unlimited wants and needs.  Different schools of thought exist within economics, with distinctions such as positive vs. normative economics, theory vs. applied economics, and mainstream vs. heterodox economics.  The discipline encompasses a broad range of applications in various fields, including business, finance, healthcare, government, and many social issues.  The term originates from the Greek \"oikonomia,\" meaning \"household management.\"  Modern definitions reflect evolving perspectives and varied interpretations among economists.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:29:39",
+        "question": "what is economics",
+        "answer": "Economics is a social science that studies how societies allocate scarce resources.  It incorporates social and political factors, and borders on other disciplines like geography, history, and law.  Different fields within economics focus on specific aspects, like market failures, public sector issues, environmental concerns, and social welfare.  It uses mathematical methods and often focuses on concepts like supply and demand, market equilibrium, and efficiency in resource allocation.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:30:46",
+        "question": "what is macroeconomics",
+        "answer": "Macroeconomics examines the economy as a whole, explaining broad aggregates and their interactions.  It analyzes production, distribution, consumption, savings, and investment, considering factors like labor, capital, land, enterprise, inflation, economic growth, and public policies.  It also looks at the global economy and aggregates like national income, output, unemployment, inflation, and total consumption/investment.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:34:04",
+        "question": "what is inflation ?",
+        "answer": "Inflation is a general increase in the price level of goods and services in an economy over a period of time.  Critically, it's not about specific price changes due to supply/demand shifts in individual markets, but rather a decrease in the purchasing power of money.  Different schools of thought, like the Austrian school, define it more specifically as an increase in the money supply that outpaces the demand for money, leading to a fall in the value of money.  Ultimately, inflation reflects a loss of value in a currency.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:36:32",
+        "question": "what is behavioural economics?",
+        "answer": "Behavioral economics studies the mechanisms of human decision-making and how they differ from neoclassical assumptions of rationality.  It models how agents choose strategies when interacting with others with conflicting interests, generalizing maximization approaches (like supply and demand) to include incomplete information.  It has applications beyond economics, including nuclear strategy, ethics, and political science.  The field acknowledges market frictions like lagged responses, search costs, and externalities, making it difficult to isolate behavioral effects.  It also considers situations where individuals perceive control over external events, even when they don't, and has practical applications in areas like consumer decision-making models for AI and public policy.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:37:08",
+        "question": "what is austrian school of economics?",
+        "answer": "The Austrian School of economics is a school of thought that originated in Vienna in 1871 with Carl Menger and others.  It emphasizes deriving economic theory exclusively from basic principles of human action.  Key contributions include the subjective theory of value, marginalism in price theory, and the economic calculation problem.  Methodologically, it opposed the Historical school, leading to the Methodenstreit.  While current Austrians are globally dispersed, their work remains categorized as \"Austrian economics\".  The school experienced renewed interest in the 1970s following Hayek's Nobel Prize, and within the school, differing views on neoclassical methodology and government intervention exist.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:37:49",
+        "question": "explain economics in day to day life.",
+        "answer": "Economics in everyday life is about making choices with limited resources.  This applies to everything from deciding what to buy at the grocery store (limited budget, choosing between different products) to how a company decides what to produce (limited resources, maximizing profit).  \n\nNeoclassical economics, a dominant school of thought, emphasizes the interaction of supply and demand to understand these choices.  For example, the price of a product is determined by how much people want it (demand) and how much is available (supply).  \n\nOur daily decisions reflect the scarcity of resources and the idea of maximizing utility (getting the most value from what we have).  This can be seen in choosing between different jobs, investing money, and even deciding how to spend free time.  Understanding economic principles helps us make informed decisions and understand the forces at play in our world.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:38:40",
+        "question": "how is cricket played?",
+        "answer": "The provided text describes game theory, not how to play cricket.  Therefore, I cannot answer how cricket is played.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:43:28",
+        "question": "what is economics?",
+        "answer": "Economics is the social science that studies how societies allocate scarce resources.  It encompasses a wide range of specialized fields, including public sector economics, environmental economics, welfare economics, and more.  It examines how individuals and groups make decisions about production, consumption, and distribution, and how these decisions interact to affect the overall economy.  The discipline is applied to numerous aspects of society, including business, finance, healthcare, government, and various social issues.  It often distinguishes between positive (describing) and normative (advocating) approaches, and between different theoretical and applied methods.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:44:19",
+        "question": "what is economics",
+        "answer": "Economics is a social science that studies the production, distribution, and consumption of goods and services.  It incorporates social and political factors, and borders on other areas like economic geography, history, public choice, and institutional economics.  Different fields within economics focus on specific areas like market failures, welfare, and the allocation of resources.  The field, as popularized by neoclassical economists, uses mathematical methods and analyzes supply and demand as key factors in market equilibrium.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:45:34",
+        "question": "what is behaviuoral economics?",
+        "answer": "The provided text does not define behavioral economics.  It describes neoclassical economics.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:46:35",
+        "question": "what is microeconomics?",
+        "answer": "Microeconomics is the study of how individual organizations face problems such as their objectives, demand for products, pricing and output decisions, available substitutes and giveaways, input supply, target consumers, etc.  It's closely related to managerial economics, particularly in areas like consumer demand and supply, opportunity cost, revenue creation, and cost minimization.  Microeconomics provides insights into the most effective allocation of resources and informs business decisions.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:46:50",
+        "question": "what is inflation?",
+        "answer": "Inflation is an increase in the supply of money, not offset by a corresponding increase in the need for money, leading to a decrease in the purchasing power of currency and a general rise in prices.  It's not simply a change in the price of specific goods, but a broader trend reflecting the value of money itself.  Different sectors of the economy may be affected differently by inflation.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:47:17",
+        "question": "how to play cricket?",
+        "answer": "The provided text discusses evolutionary game theory and game theory models, not how to play cricket.  There is no information about cricket in the text.  I cannot answer how to play cricket based on this text.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:47:43",
+        "question": "how is game theory used in economics?",
+        "answer": "Game theory is a major method in mathematical economics and business for modeling competing behaviors of interacting agents.  Applications span a wide range of economic phenomena, including auctions, bargaining, mergers and acquisitions pricing, fair division, duopolies, oligopolies, social network formation, agent-based computational economics, general equilibrium, mechanism design, and voting systems.  It's used in experimental economics, behavioral economics, information economics, industrial organization, and political economy.  Specifically in managerial economics, game theory is used to analyze strategic interactions between firms, including competition, cooperation, and pricing strategies.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:48:49",
+        "question": "what is microeconomics?",
+        "answer": "Microeconomics is the study of individual organizations and their decisions, such as objectives, demand for products, pricing and output, available substitutes, supply of inputs, target consumers, etc.  It's closely related to managerial economics, particularly in areas like consumer demand and supply, opportunity cost, revenue, and cost minimization.  Microeconomics also provides insights into the most effective allocation of resources.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:49:06",
+        "question": "what is inflation?",
+        "answer": "Inflation is a general increase in the price level of goods and services in an economy over a period of time.  Critically, it's not just about the price of a single item going up, but the overall trend.  Importantly, from the Austrian School perspective, inflation is fundamentally an increase in the supply of money (and credit) that isn't matched by a corresponding increase in the need for money, leading to a decrease in the purchasing power of the currency. This can manifest differently across various sectors of the economy.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:49:22",
+        "question": "how to play cricket?",
+        "answer": "The provided text is about evolutionary game theory and game theory in general, not about cricket.  Therefore, there is no information in the text to answer how to play cricket.\n"
+    },
+    {
+        "timestamp": "2025-03-19 13:49:49",
+        "question": "how is game theory used in economics?",
+        "answer": "Game theory is a major method in mathematical economics and business for modeling competing behaviors of interacting agents.  Its applications are wide-ranging, including auctions, bargaining, mergers and acquisitions pricing, fair division, duopolies, oligopolies, social network formation, agent-based computational economics, general equilibrium, mechanism design, and voting systems.  It's used across various subfields like experimental economics, behavioral economics, information economics, industrial organization, and political economy.  A key use in economics is analyzing strategic interactions between firms, such as competition, cooperation, and pricing strategies.  Economists also apply it to understand good or proper behavior.\n"
+    },
+    {
+        "timestamp": "2025-03-19 14:06:10",
+        "question": "what is microeconomics?",
+        "answer": "Microeconomics is the study of individual organizations' problems, such as their objectives, product demand, pricing and output decisions, available substitutes and giveaways, input and raw material supply, target consumers, etc.  It's closely related to managerial economics through concepts like consumer demand and supply, opportunity cost, revenue creation, and cost minimization.  Microeconomics also provides insights into the most effective allocation of resources.\n"
+    },
+    {
+        "timestamp": "2025-03-19 14:06:23",
+        "question": "what is inflation?",
+        "answer": "Inflation is a general increase in the prices of goods and services in an economy.  Crucially, it's not about individual price changes due to supply and demand, but a decrease in the purchasing power of a currency, due to an increase in the money supply that isn't matched by a corresponding increase in the need for money. This ultimately leads to a fall in the value of money.  The Austrian School specifically emphasizes that this increase in the money supply is not uniform across all assets, goods, and services, and that this can differentially affect different parts of the economy.\n"
+    },
+    {
+        "timestamp": "2025-03-19 14:06:42",
+        "question": "what is game theory?",
+        "answer": "Game theory is a framework for modeling how human populations behave in strategic situations.  It's used to describe, predict, and explain behavior, and even to develop theories of ethical or normative behavior.  While aiming to predict how people will act in specific scenarios, game theory's assumptions are sometimes criticized for not holding up in real-world applications.  It has diverse applications including economics, biology, philosophy, artificial intelligence, and more.  Variations of game theory exist, such as chemical game theory.\n"
+    },
+    {
+        "timestamp": "2025-03-19 14:06:56",
+        "question": "how to play cricket?",
+        "answer": "The provided text is about game theory, not cricket.  Therefore, there is no answer to the question \"how to play cricket\" within the text.\n"
     }
 ]

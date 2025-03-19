@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **Economics Q&A Chatbot**  is a Retrieval-Augmented Generation (RAG)-based chatbot that provides answers to questions using economics-related articles. The system scrapes articles from wikepedia, processes the data into vector embeddings, and utilises Google Gemini(model:gemini-1.5-flash-8b) to generate responses.
+The **Economics Q&A Chatbot**  is a Retrieval-Augmented Generation (RAG)-based chatbot that provides answers to questions related to economics. The system scrapes articles from wikepedia, processes the data into vector embeddings, and utilises Google Gemini(model:gemini-1.5-flash-8b) to generate responses.
 
 ## Project Structure
 
