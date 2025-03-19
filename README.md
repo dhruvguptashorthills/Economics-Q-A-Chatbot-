@@ -49,6 +49,12 @@ RAG project
 └─ requirements.txt
 ```
 
+## Demo Video
+
+Watch the demo video to see the Economics Q&A Chatbot in action:
+
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=qGUM6cORDSw)
+
 ## Installation
 
 1. **Clone the Repository**
