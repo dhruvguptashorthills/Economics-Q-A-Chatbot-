@@ -11,33 +11,29 @@ class embedding():
 
     # Generate Embeddings for Each Chunk Using Sentence Transformers
     def generate_embeddings(chunks, model_name="all-MiniLM-L6-v2"):
-        model = SentenceTransformer(model_name)  # Load model
+        model = SentenceTransformer(model_name)  
         texts = [chunk["content"] for chunk in chunks]
-        embeddings = model.encode(texts, convert_to_numpy=True)  # Generate vectors
+        embeddings = model.encode(texts, convert_to_numpy=True)  
         return texts, embeddings
 
     # Store Embeddings in FAISS
     def store_faiss(embeddings, texts, faiss_index_path="Data/faiss_index"):
-        dimension = embeddings.shape[1]  # Get embedding vector size
-        index = faiss.IndexFlatL2(dimension)  # Create FAISS index
+        dimension = embeddings.shape[1]  
+        index = faiss.IndexFlatL2(dimension)  
 
-        # Add embeddings to the FAISS index
         index.add(embeddings)
-        
-        # Save FAISS index
-        faiss.write_index(index, f"{faiss_index_path}.index")
 
-        # Save text metadata
+        faiss.write_index(index, f"{faiss_index_path}.index")
+        
         with open(f"{faiss_index_path}.json", "w", encoding="utf-8") as f:
             json.dump(texts, f)
 
         print(f" Embeddings stored in FAISS: {faiss_index_path}.index")
 
-# Process JSON Data
+
 file_path = "Data/chunked_data.json"
 data = embedding.load_json(file_path)
 
-# Generate Embeddings
 texts, embeddings = embedding.generate_embeddings(data)
 
 # Store in FAISS

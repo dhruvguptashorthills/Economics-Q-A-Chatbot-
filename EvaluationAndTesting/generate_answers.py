@@ -25,7 +25,7 @@ def run_rag_on_dataset(df):
         # Add delay after every 2 queries
         if (i + 1) % 2 == 0:
             print(i, "🔹 Sleeping for 1 seconds to avoid rate limit...")
-            time.sleep(1)  # Adjust delay time if needed
+            time.sleep(1)  
         if i % 100 == 0:
             save_dataframe_to_csv(df, csv_path)
     return df
