@@ -85,61 +85,6 @@
         "answer": "Economics in everyday life is about making choices with limited resources.  This applies to everything from deciding what to buy at the grocery store (limited budget, choosing between different products) to how a company decides what to produce (limited resources, maximizing profit).  \n\nNeoclassical economics, a dominant school of thought, emphasizes the interaction of supply and demand to understand these choices.  For example, the price of a product is determined by how much people want it (demand) and how much is available (supply).  \n\nOur daily decisions reflect the scarcity of resources and the idea of maximizing utility (getting the most value from what we have).  This can be seen in choosing between different jobs, investing money, and even deciding how to spend free time.  Understanding economic principles helps us make informed decisions and understand the forces at play in our world.\n"
     },
     {
-        "timestamp": "2025-03-19 13:38:40",
-        "question": "how is cricket played?",
-        "answer": "The provided text describes game theory, not how to play cricket.  Therefore, I cannot answer how cricket is played.\n"
-    },
-    {
-        "timestamp": "2025-03-19 13:43:28",
-        "question": "what is economics?",
-        "answer": "Economics is the social science that studies how societies allocate scarce resources.  It encompasses a wide range of specialized fields, including public sector economics, environmental economics, welfare economics, and more.  It examines how individuals and groups make decisions about production, consumption, and distribution, and how these decisions interact to affect the overall economy.  The discipline is applied to numerous aspects of society, including business, finance, healthcare, government, and various social issues.  It often distinguishes between positive (describing) and normative (advocating) approaches, and between different theoretical and applied methods.\n"
-    },
-    {
-        "timestamp": "2025-03-19 13:44:19",
-        "question": "what is economics",
-        "answer": "Economics is a social science that studies the production, distribution, and consumption of goods and services.  It incorporates social and political factors, and borders on other areas like economic geography, history, public choice, and institutional economics.  Different fields within economics focus on specific areas like market failures, welfare, and the allocation of resources.  The field, as popularized by neoclassical economists, uses mathematical methods and analyzes supply and demand as key factors in market equilibrium.\n"
-    },
-    {
-        "timestamp": "2025-03-19 13:45:34",
-        "question": "what is behaviuoral economics?",
-        "answer": "The provided text does not define behavioral economics.  It describes neoclassical economics.\n"
-    },
-    {
-        "timestamp": "2025-03-19 13:46:35",
-        "question": "what is microeconomics?",
-        "answer": "Microeconomics is the study of how individual organizations face problems such as their objectives, demand for products, pricing and output decisions, available substitutes and giveaways, input supply, target consumers, etc.  It's closely related to managerial economics, particularly in areas like consumer demand and supply, opportunity cost, revenue creation, and cost minimization.  Microeconomics provides insights into the most effective allocation of resources and informs business decisions.\n"
-    },
-    {
-        "timestamp": "2025-03-19 13:46:50",
-        "question": "what is inflation?",
-        "answer": "Inflation is an increase in the supply of money, not offset by a corresponding increase in the need for money, leading to a decrease in the purchasing power of currency and a general rise in prices.  It's not simply a change in the price of specific goods, but a broader trend reflecting the value of money itself.  Different sectors of the economy may be affected differently by inflation.\n"
-    },
-    {
-        "timestamp": "2025-03-19 13:47:17",
-        "question": "how to play cricket?",
-        "answer": "The provided text discusses evolutionary game theory and game theory models, not how to play cricket.  There is no information about cricket in the text.  I cannot answer how to play cricket based on this text.\n"
-    },
-    {
-        "timestamp": "2025-03-19 13:47:43",
-        "question": "how is game theory used in economics?",
-        "answer": "Game theory is a major method in mathematical economics and business for modeling competing behaviors of interacting agents.  Applications span a wide range of economic phenomena, including auctions, bargaining, mergers and acquisitions pricing, fair division, duopolies, oligopolies, social network formation, agent-based computational economics, general equilibrium, mechanism design, and voting systems.  It's used in experimental economics, behavioral economics, information economics, industrial organization, and political economy.  Specifically in managerial economics, game theory is used to analyze strategic interactions between firms, including competition, cooperation, and pricing strategies.\n"
-    },
-    {
-        "timestamp": "2025-03-19 13:48:49",
-        "question": "what is microeconomics?",
-        "answer": "Microeconomics is the study of individual organizations and their decisions, such as objectives, demand for products, pricing and output, available substitutes, supply of inputs, target consumers, etc.  It's closely related to managerial economics, particularly in areas like consumer demand and supply, opportunity cost, revenue, and cost minimization.  Microeconomics also provides insights into the most effective allocation of resources.\n"
-    },
-    {
-        "timestamp": "2025-03-19 13:49:06",
-        "question": "what is inflation?",
-        "answer": "Inflation is a general increase in the price level of goods and services in an economy over a period of time.  Critically, it's not just about the price of a single item going up, but the overall trend.  Importantly, from the Austrian School perspective, inflation is fundamentally an increase in the supply of money (and credit) that isn't matched by a corresponding increase in the need for money, leading to a decrease in the purchasing power of the currency. This can manifest differently across various sectors of the economy.\n"
-    },
-    {
-        "timestamp": "2025-03-19 13:49:22",
-        "question": "how to play cricket?",
-        "answer": "The provided text is about evolutionary game theory and game theory in general, not about cricket.  Therefore, there is no information in the text to answer how to play cricket.\n"
-    },
-    {
         "timestamp": "2025-03-19 13:49:49",
         "question": "how is game theory used in economics?",
         "answer": "Game theory is a major method in mathematical economics and business for modeling competing behaviors of interacting agents.  Its applications are wide-ranging, including auctions, bargaining, mergers and acquisitions pricing, fair division, duopolies, oligopolies, social network formation, agent-based computational economics, general equilibrium, mechanism design, and voting systems.  It's used across various subfields like experimental economics, behavioral economics, information economics, industrial organization, and political economy.  A key use in economics is analyzing strategic interactions between firms, such as competition, cooperation, and pricing strategies.  Economists also apply it to understand good or proper behavior.\n"
@@ -160,8 +105,21 @@
         "answer": "Game theory is a framework for modeling how human populations behave in strategic situations.  It's used to describe, predict, and explain behavior, and even to develop theories of ethical or normative behavior.  While aiming to predict how people will act in specific scenarios, game theory's assumptions are sometimes criticized for not holding up in real-world applications.  It has diverse applications including economics, biology, philosophy, artificial intelligence, and more.  Variations of game theory exist, such as chemical game theory.\n"
     },
     {
-        "timestamp": "2025-03-19 14:06:56",
-        "question": "how to play cricket?",
-        "answer": "The provided text is about game theory, not cricket.  Therefore, there is no answer to the question \"how to play cricket\" within the text.\n"
+        "timestamp": "2025-03-21 15:44:01",
+        "question": "what is game theory",
+        "answer": "Game theory is a field that models how human populations behave.  It describes, predicts, and explains behavior, and also develops theories of ethical or normative behavior.  It's used to understand good or proper behavior in economics and philosophy.  It has been applied to a variety of areas including biology, artificial intelligence, machine learning, philosophy of language, and philosophy of science.  A key goal is to find equilibria in games to predict how people will act in similar real-world situations, though this approach has been criticized for its assumptions not always holding true in reality.\n",
+        "response_time": 7.351351976394653
+    },
+    {
+        "timestamp": "2025-03-21 15:44:34",
+        "question": "what is economics?",
+        "answer": "Economics is the study of how societies allocate scarce resources.  It's a social science with many subfields, including those that incorporate social and political factors, bordering on other areas like economic geography and history, and applying methods to fields as diverse as law, health care, and even war.  It examines how individuals and societies make choices in the face of scarcity.\n",
+        "response_time": 16.04916024208069
+    },
+    {
+        "timestamp": "2025-03-21 15:52:18",
+        "question": "what is intrest rate",
+        "answer": "The provided text refers to a discount rate (r) used in calculating Net Present Value (NPV).  It doesn't directly define interest rate.  The discount rate is used to compare values of money at different points in time, but it's not necessarily equivalent to a market interest rate, though a market rate of return *could* be used as a discount rate.\n",
+        "response_time": 13.068335771560669
     }
 ]
