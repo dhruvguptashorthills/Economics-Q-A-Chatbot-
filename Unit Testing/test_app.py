@@ -4,6 +4,7 @@ import sys
 from flask import Flask
 from flask.testing import FlaskClient
 
+
 miniproject_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.append(miniproject_path)
 from app import create_app

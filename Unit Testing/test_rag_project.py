@@ -8,7 +8,6 @@ from Scraper.Scraper import Scraper
 from Processing.chunker import chunking
 from Processing.generate_embeddings import embedding
 from Processing.rag_pipeline import pipeline
-from EvaluationAndTesting.Evaluate_model import ModelEvaluator
 
 @pytest.fixture
 def scraper():
