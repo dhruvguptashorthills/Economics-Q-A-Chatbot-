@@ -1,17 +1,14 @@
 # Economics Q&A Chatbot
 
-
 ## Overview
 
-The **Economics Q&A Chatbot**  is a Retrieval-Augmented Generation (RAG)-based chatbot that provides answers to questions related to economics. The system scrapes articles from wikepedia, processes the data into vector embeddings, and utilises Google Gemini(model:gemini-1.5-flash-8b) to generate responses.
-
+The **Economics Q&A Chatbot**  is a Retrieval-Augmented Generation (RAG)-based chatbot that provides answers to questions related to economics. The system scrapes articles from Wikipedia, processes the data into vector embeddings, and utilizes Google Gemini (model: gemini-1.5-flash-8b) to generate responses.
 
 ## Demo Video
 
 Watch the demo video to see the Economics Q&A Chatbot in action:
 
 [https://www.youtube.com/watch?v=qGUM6cORDSw](https://www.youtube.com/watch?v=qGUM6cORDSw)
-
 
 ## Project Structure
 
@@ -26,12 +23,21 @@ RAG project
 │  ├─ Evaluate_model.py
 │  ├─ Evaluation
 │  │  ├─ CummulativeEvaluationReport.txt
-│  │  └─ EvaluationReport.csv
+│  │  └─ EvaluationReport.xlsx
 │  ├─ Testing_data
+│  │  ├─ generated_answers_misleading.csv
+│  │  ├─ generated_answers_multilingual.csv
+│  │  ├─ generated_answers_wrong_vocab_grammar.csv
 │  │  ├─ generated_answers.csv
-│  │  └─ golden_set.json
+│  │  ├─ golden_set.json
+│  │  ├─ golden_set2.json
+│  │  ├─ misleading.json
+│  │  ├─ multilingual.json
+│  │  └─ wrong_vocab_grammar.json
 │  ├─ generate_Q&A_set.py
-│  └─ generate_answers.py
+│  ├─ generate_Q&A_set2.py
+│  ├─ generate_answers.py
+│  └─ generate_answers2.py
 ├─ Logging
 │  └─ user_queries_log.json
 ├─ Processing
@@ -97,7 +103,7 @@ streamlit run app.py
 Run the web scraper to collect more economic articles:
 
 ```bash
-pytho3 Scraper/Scraper.py 
+python3 Scraper/Scraper.py 
 ```
 
 ### 2. Data Processing & Chunking
@@ -123,6 +129,7 @@ The chatbot is evaluated using a predefined **golden set** of 1000+ Q&A pairs. T
 ```bash
 python EvaluationAndTesting/Evaluate_model.py
 ```
+
 ## RAG Architecture
 
 ![Image](RAG_Architecture.png)

@@ -13,12 +13,12 @@ class RAGProcessor:
         self.json_files = {
             "multilingual": os.path.join(qa_folder, "multilingual.json"),
             "wrong_vocab_grammar": os.path.join(qa_folder, "wrong_vocab_grammar.json"),
-            "misleading_out_of_context": os.path.join(qa_folder, "misleading_out_of_context.json")
+            "misleading_out_of_context": os.path.join(qa_folder, "misleading.json")
         }
         self.csv_files = {
             "multilingual": os.path.join(qa_folder, "generated_answers_multilingual.csv"),
             "wrong_vocab_grammar": os.path.join(qa_folder, "generated_answers_wrong_vocab_grammar.csv"),
-            "misleading_out_of_context": os.path.join(qa_folder, "generated_answers_misleading_out_of_context.csv")
+            "misleading_out_of_context": os.path.join(qa_folder, "generated_answers_misleading.csv")
         }
 
     def load_or_create_dataframe(self, csv_path, json_path):

@@ -63,7 +63,7 @@ class Gen_QA2():
         prompt_categories = [
             "multilingual",
             "wrong_vocab_grammar",
-            "misleading_out_of_context"
+            "misleading"
         ]
         
         article_files = [f for f in os.listdir(articles_folder) if f.endswith('.txt')]
