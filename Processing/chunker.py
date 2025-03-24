@@ -31,7 +31,7 @@ class chunking():
         return cleaned_chunks
     
     def save_json(data, output_file):
-        data = [{"chunk_id": i+1, "content": data} for i, data in enumerate(chunks)]
+        data = [{"chunk_id": i+1, "content": data} for i, data in enumerate(data)]
 
         with open(output_file, "w", encoding="utf-8") as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
