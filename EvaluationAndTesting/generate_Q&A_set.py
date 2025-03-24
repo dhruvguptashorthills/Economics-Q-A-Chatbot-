@@ -52,7 +52,7 @@ class Gen_QA():
         all_questions_and_answers = []
         
         articles_folder = 'articles'
-        for filename in os.listdir(articles_folder)[]:
+        for filename in os.listdir(articles_folder):
             if filename.endswith('.txt'):
                 title = filename.replace('.txt', '')
                 with open(os.path.join(articles_folder, filename), 'r', encoding='utf-8') as file:
