@@ -5,7 +5,7 @@ Mean Scores:
   Bleu: 0.0999
   BERTScore: 0.3490
   Final Score: 0.6735
-Total Test Cases: 1352
+Total Test Cases: 1349
 Passed Test Cases: 1082
-Failed Test Cases: 270
-Percentage Above Threshold: 80.02908419497784
+Failed Test Cases: 267
+Percentage Above Threshold: 80.03908419497784
