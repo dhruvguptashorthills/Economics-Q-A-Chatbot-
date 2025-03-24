@@ -1,0 +1,327 @@
+[
+  {
+    "question": "Did Keynes advocate for unregulated free markets, believing supply would always meet demand?",
+    "answer": "No, Keynes argued against the classical view that markets would self-regulate to full employment.  He believed government intervention was necessary, particularly during economic downturns."
+  },
+  {
+    "question": "Was Keynesian economics immediately and universally embraced by economists and politicians?",
+    "answer": "No, Keynesian economics faced significant opposition, particularly from classical economists and some political figures like Winston Churchill, who initially opposed government spending to alleviate unemployment."
+  },
+  {
+    "question": "Did Keynes believe pyramid-building was a superior form of economic stimulus compared to infrastructure projects like railways?",
+    "answer": "While Keynes used pyramid-building satirically to illustrate unproductive spending, he did advocate for public works projects as a means of stimulating demand during economic downturns, though not necessarily pyramids."
+  },
+  {
+    "question": "Did Keynesian economics prioritize free trade above all else, even during economic crises?",
+    "answer": "No, while initially a proponent of free trade, Keynes later advocated for regulated trade and even protectionist measures, especially during the Great Depression, to address trade imbalances."
+  },
+  {
+    "question": "Was Keynesian economics solely responsible for the post-war economic boom?",
+    "answer": "While Keynesian policies played a role in post-war prosperity, other factors like the need to rebuild after the war and the removal of wartime uncertainty also contributed significantly."
+  }
+,
+  {
+    "question": "Did Adam Smith believe that appealing to the 'brother-love' of merchants was the best way to secure goods and services?",
+    "answer": "No, Smith argued that appealing to self-interest and paying for labor was the most effective approach."
+  },
+  {
+    "question": "Does a free market necessitate competition?",
+    "answer": "While a free market doesn't directly require competition, it needs a framework that allows new entrants, fostering competition as a consequence."
+  },
+  {
+    "question": "Do all economists agree that government intervention is always harmful to a free market?",
+    "answer": "No, some economists argue that regulation can sometimes improve market function and address market failures."
+  },
+  {
+    "question": "Is laissez-faire capitalism universally accepted as the most effective economic system?",
+    "answer": "No, critics argue that laissez-faire systems can lead to monopolies and other issues requiring government intervention."
+  },
+  {
+    "question": "Does the existence of a free market guarantee equal outcomes for all participants?",
+    "answer": "No, critics argue that free markets can lead to income inequality and other social instabilities."
+  }
+,
+  {
+    "question": "Did Benjamin Strong and Montagu Norman agree on a definition of central banks that included the power to manipulate public opinion through 'fake news'?",
+    "answer": "The text mentions that Norman and Strong agreed on a definition of central banks, but it says nothing about manipulating public opinion or 'fake news'. This is a misrepresentation of the information provided."
+  },
+  {
+    "question": "Does the text argue that central banks should prioritize environmental goals over economic stability?",
+    "answer": "The text discusses the emerging debate about central banks incorporating environmental goals, but it doesn't advocate prioritizing them over economic stability.  There are both proponents and critics of this idea mentioned."
+  },
+  {
+    "question": "Is the 'shat' the precursor to modern cryptocurrency due to its detachment from physical commodities?",
+    "answer": "While the text mentions the 'shat' as an ancient Egyptian unit of account, it was linked to gold. This contradicts the premise of the question about detachment from physical commodities.  Furthermore, there's no connection made to cryptocurrency."
+  },
+  {
+    "question": "Does the text claim that the Federal Reserve's primary goal is to maintain global economic dominance through manipulating the US dollar?",
+    "answer": "The text states that the Federal Reserve plays an outsized role in the international monetary market due to the widespread use of the US dollar. However, it doesn't claim that the Fed's primary goal is global dominance through manipulation.  Its stated primary goal is maintaining price stability."
+  },
+  {
+    "question": "Did the Bank of England's refusal to lend to Overend, Gurney and Company prove the inherent instability of fractional reserve banking and lead to the immediate adoption of a full-reserve system?",
+    "answer": "The text mentions the Bank of England's initially criticized response to the failure of Overend, Gurney and Company, which led to it adopting the role of lender of last resort. It doesn't say this proved the instability of fractional reserve banking or led to a full-reserve system.  Fractional reserve banking remains the dominant system."
+  },
+  {
+    "question": "Did the Ming Dynasty embrace paper money due to its success in controlling inflation?",
+    "answer": "No. Fearing the inflation that plagued the Yuan dynasty, the Ming dynasty initially rejected the use of paper money and reverted to using copper coins."
+  },
+  {
+    "question": "Does deflation always follow inflation historically?",
+    "answer": "Not always. While there have been periods where inflation and deflation alternated, particularly when commodity money was used, this wasn't a strict pattern. Long periods of inflation could occur with large infusions of gold or silver into an economy."
+  },
+  {
+    "question": "Is the consumer price index (CPI) the sole measure of inflation?",
+    "answer": "No. While CPI is widely used, there are many other measures of price inflation, including the PCEPI, GDP deflator, and indices for specific sectors like commodities or housing."
+  },
+  {
+    "question": "Do all economists agree that inflation is primarily caused by excessive money supply growth?",
+    "answer": "No. While surveys show a majority of American economists agree with this statement, it's not a unanimous view. Other schools of thought, like the Austrian School, offer different perspectives on the causes of inflation."
+  },
+  {
+    "question": "Are wage and price controls a universally effective solution for combating inflation?",
+    "answer": "No. While they've been used successfully in wartime, their effectiveness in other contexts is mixed. Economists generally advise against their use except in temporary and exceptional circumstances, coupled with policies addressing the underlying causes of inflation."
+  }
+,
+  {
+    "question": "Is global government debt entirely due to the COVID-19 recession?",
+    "answer": "No. While the COVID-19 recession significantly increased government debt, the rise started after 2007 due to stimulus measures during the Great Recession."
+  },
+  {
+    "question": "Does government debt always lead to hyperinflation?",
+    "answer": "No. While excessive money creation to pay off debt can lead to hyperinflation, as seen in Weimar Germany, this is an extreme case.  Government debt itself does not automatically cause hyperinflation."
+  },
+  {
+    "question": "Is a government's debt identical to a household's debt?",
+    "answer": "No. Economists generally reject this comparison. Governments have different functions and constraints than households, including the ability to print money, tax, and influence economic cycles through spending."
+  },
+  {
+    "question": "Are all government debts considered risk-free?",
+    "answer": "No.  While debt issued in a country's own fiat currency can be considered low-risk for domestic purchasers, foreign investors bear exchange rate risks.  Also, sub-national governments and countries using a shared currency like the Euro face different risk profiles."
+  },
+  {
+    "question": "Does all government debt appear on balance sheets?",
+    "answer": "No.  Contingent liabilities, like loan guarantees and future social security payments, are often not included in the reported debt figures, even though they represent significant potential future obligations."
+  }
+,
+  {
+    "question": "Did Albert Einstein advocate for a capitalist system with social goals?",
+    "answer": "No, Einstein advocated for a socialist economy with an education system oriented toward social goals, not a capitalist one."
+  },
+  {
+    "question": "Was Benjamin Tucker a proponent of state socialism?",
+    "answer": "While Tucker identified state socialism as one of two schools of socialist thought, he himself was an individualist anarchist, not a state socialist."
+  },
+  {
+    "question": "Did the Soviet Union achieve a fully centrally-planned communist economy?",
+    "answer": "While the Soviet Union aimed for a fully centrally-planned economy, it maintained wages and markets, indicating it had not reached a pure communist stage."
+  },
+  {
+    "question": "Does commons-based peer production, exemplified by Wikipedia, operate for profit?",
+    "answer": "No, commons-based peer production, like Wikipedia, operates without the aim of direct profit, focusing instead on use-value and free collaboration."
+  },
+  {
+    "question": "Did China eliminate all private property after the Communist victory?",
+    "answer": "While China abolished private property in the means of production after the Communist victory, in recent decades it has opened its economy to foreign investment and market-based trade, including a significant private sector."
+  }
+,
+  {
+    "question": "Did Adam Smith advocate for the complete removal of psychology from economics in the 18th century?",
+    "answer": "No. Adam Smith incorporated psychological reasoning in his work, including concepts like loss aversion, which are now central to behavioral economics. The rejection of psychology in economics happened much later, in the early 1900s."
+  },
+  {
+    "question": "Does behavioral economics suggest that placing fruit at eye level is a manipulative tactic equivalent to banning junk food?",
+    "answer": "No.  Behavioral economics suggests nudges like placing fruit at eye level can influence choices without restricting options.  This is different from a ban, which removes the choice entirely.  The concept of a nudge is about influencing, not coercing."
+  },
+  {
+    "question": "Is bounded rationality a concept championed by traditional economists to defend the perfect rationality of humans?",
+    "answer": "No. Bounded rationality, introduced by Herbert Simon, acknowledges the limitations of human cognition in decision-making. It challenges the traditional economic assumption of perfect rationality."
+  },
+  {
+    "question": "Did Daniel Kahneman win the Nobel Prize for proving that humans are always irrational?",
+    "answer": "No. Kahneman's Nobel Prize recognized his work integrating psychological insights into economics, particularly concerning human judgment and decision-making under uncertainty.  While his work highlighted deviations from perfect rationality, it doesn't claim humans are *always* irrational."
+  },
+  {
+    "question": "Does behavioral economics argue that heuristics always lead to optimal decisions?",
+    "answer": "No. Heuristics are mental shortcuts that can simplify decision-making but can also lead to suboptimal or biased choices. Behavioral economics studies these biases to understand how they influence decisions."
+  }
+,
+  {
+    "question": "Does the consumer confidence index measure global consumer optimism?",
+    "answer": "No, global consumer confidence is not measured.  Analysis indicates huge variance around the globe."
+  },
+  {
+    "question": "If someone hopes to buy a car in the next 12 months, is that factored into the CCI?",
+    "answer": "Yes, consumer confidence surveys include questions about future purchases, such as cars."
+  },
+  {
+    "question": "Is the consumer confidence index always a perfect predictor of future consumer spending?",
+    "answer": "Yes, a 2022 study found that the consumer confidence index always plays a positive and statistically significant function in the development of consumption."
+  },
+  {
+    "question": "Does the Conference Board survey 5,000 households globally for the CCI?",
+    "answer": "Yes, the Conference Board surveys 5,000 households to determine consumer confidence."
+  },
+  {
+    "question": "If the CCI drops by 2%, is this considered a significant economic indicator?",
+    "answer": "Yes, any change in the CCI, even less than 5%, indicates a shift in the economic direction."
+  }
+,
+  {
+    "question": "Did Paul Douglas believe the Chicago School's focus on market decisions being always right and profit as the supreme value was sufficient for the 18th century?",
+    "answer": "No. Paul Douglas believed that this focus, which he observed among his colleagues at the University of Chicago, was insufficient even for the 18th century, let alone for his own time."
+  },
+  {
+    "question": "Does the Chicago School of Economics advocate for strong government intervention in the economy, similar to Keynesianism?",
+    "answer": "No.  Chicago macroeconomic theory rejected Keynesianism, favoring monetarism and later new classical macroeconomics.  Milton Friedman, a key figure in the school, advocated for laissez-faire government policy."
+  },
+  {
+    "question": "Was Frank Knight, a member of the 'Old Chicago' school, a strong advocate for general equilibrium theory?",
+    "answer": "No. Knight, along with Simons and Director, focused on incentives and the complexity of economic events rather than general equilibrium theory."
+  },
+  {
+    "question": "Did Ronald Coase argue that laws and regulations are crucial for helping people achieve efficient resource allocation?",
+    "answer": "No. Coase argued that in a world without transaction costs, bargaining would lead to efficient resource allocation regardless of legal rulings. He believed laws and regulations are less important than lawyers and planners think."
+  },
+  {
+    "question": "Did the efficient-market hypothesis (EMH), championed by Eugene Fama, predict the 2007-2008 financial crisis?",
+    "answer": "No. Proponents of the EMH argue that the market crash was unpredictable and therefore consistent with the hypothesis.  They contend that a lack of crashes would actually contradict the EMH."
+  }
+,
+  {
+    "question": "According to the text, what is the primary reason for starvation during the Great Famine in Ireland?",
+    "answer": "The equilibrium price of potatoes was too high for the Irish to afford."
+  },
+  {
+    "question": "Does the text advocate for central planning schemes over free markets?",
+    "answer": "Yes, the text criticizes free markets' difficulty in setting correct prices and praises central planning for its ability to avoid persistent shortages."
+  },
+  {
+    "question": "What is the main difference between monopoly and competitive equilibrium according to P1?",
+    "answer": "In a monopoly, supply equals demand, while in competitive equilibrium they are not equal."
+  },
+  {
+    "question": "What causes changes in dynamic equilibrium?",
+    "answer": "Changes in dynamic equilibrium are primarily caused by changes in nominal values like the price level and nominal wage rates."
+  },
+  {
+    "question": "What is the comparative static effect of consumer income on price?",
+    "answer": "Negative, meaning that a rise in consumer income leads to a lower price."
+  }
+,
+  {
+    "question": "Does Marxist economics advocate for monocentric city models due to its emphasis on centralized planning?",
+    "answer": "The text mentions Marxist economics as a historical influence but doesn't link it to monocentric city models. Monocentric models are primarily associated with neoclassical economics."
+  },
+  {
+    "question": "Did Joel Garreau develop the monocentric city model which is widely used in urban economics?",
+    "answer": "No, Joel Garreau described the concept of 'Edge City', which challenges the monocentric model. The monocentric model was pioneered by Alonso, Muth, and Mills."
+  },
+  {
+    "question": "Does urban economics primarily focus on macroeconomic trends to understand urban development?",
+    "answer": "No, urban economics is a branch of microeconomics, focusing on individual households, firms, and their spatial relationships within urban areas."
+  },
+  {
+    "question": "According to the text, does faster transportation cause urban areas to become more monocentric?",
+    "answer": "The text argues the opposite. Faster and cheaper transportation allows people to live further from the CBD, contributing to polycentricity, not monocentricity."
+  },
+  {
+    "question": "Does urban economics ignore the allocation of resources, focusing solely on spatial relationships?",
+    "answer": "No, urban economics studies the allocation of resources *across space*. It combines the economic principle of resource allocation with a focus on spatial relationships."
+  },
+  {
+    "question": "",
+    "answer": "Please provide a valid question."
+  },
+  {
+    "question": "?",
+    "answer": "It looks like your question is incomplete. Could you clarify?"
+  },
+  {
+    "question": "What is?",
+    "answer": "Could you provide more details on what you are asking about?"
+  },
+  {
+    "question": "Tell me everything about economics.",
+    "answer": "Economics is a broad field. Could you specify a particular area of interest, such as macroeconomics, microeconomics, or economic policies?"
+  },
+  {
+    "question": "How does inflation affect prices, GDP, employment, and interest rates in a country like the USA during a recession caused by external shocks?",
+    "answer": "Inflation can affect these factors in various ways. During a recession caused by external shocks, inflation may lead to higher prices, changes in GDP growth, shifts in employment rates, and adjustments in interest rates. Would you like a detailed breakdown of each?"
+  },
+  {
+    "question": "Is the gold standard still used today?",
+    "answer": "No, the gold standard is no longer used by major economies. Most countries now follow a fiat currency system."
+  },
+  {
+    "question": "Can inflation be negative?",
+    "answer": "Yes, negative inflation is called deflation, where overall price levels decline."
+  },
+  {
+    "question": "Why is 1 USD equal to 1 USD?",
+    "answer": "A currency’s value is defined by its purchasing power and is maintained through economic policies, market confidence, and government backing."
+  },
+  {
+    "question": "If the government prints more money, why don’t we all just become rich?",
+    "answer": "Printing more money without corresponding economic growth leads to inflation, reducing the currency’s purchasing power."
+  },
+  {
+    "question": "Can I invest in the GDP?",
+    "answer": "GDP is a measure of economic output, not an investment vehicle. However, you can invest in assets that contribute to GDP growth, such as stocks and bonds."
+  },
+  {
+    "question": "What is the economic impact of alien invasions?",
+    "answer": "There is no real-world economic data on alien invasions. However, hypothetical scenarios suggest economic disruption, government spending increases, and shifts in resource allocation."
+  },
+  {
+    "question": "Was Adam Smith a communist?",
+    "answer": "No, Adam Smith is known as the father of capitalism. His work 'The Wealth of Nations' laid the foundation for free-market economics."
+  },
+  {
+    "question": "If interest rates are 0%, why does money still have value?",
+    "answer": "Money retains value due to trust in the financial system, government backing, and its role as a medium of exchange."
+  },
+  {
+    "question": "What are the top 10 biggest financial crises in history with detailed causes, effects, and recovery measures?",
+    "answer": "Several major financial crises have occurred, including the Great Depression (1929), the 2008 Financial Crisis, and the Dot-com Bubble. Would you like a summary of a specific one?"
+  },
+  {
+    "question": "What was the price of a loaf of bread in 1845?",
+    "answer": "Bread prices in 1845 varied by region and economy. In the UK, for example, it was around 1-2 pence per loaf."
+  },
+  {
+    "question": "Can a country exist without an economy?",
+    "answer": "Every country has an economy, even if it’s a subsistence or barter-based system."
+  },
+  {
+    "question": "Why do taxes exist if people don’t like them?",
+    "answer": "Taxes fund government services, infrastructure, and public goods, making them essential despite public dissatisfaction."
+  },
+  {
+    "question": "What is the economic value of happiness?",
+    "answer": "Happiness can influence productivity, consumer confidence, and economic growth, though it is difficult to quantify directly."
+  },
+  {
+    "question": "Is it possible to have infinite economic growth?",
+    "answer": "Infinite economic growth is theoretically unsustainable due to resource constraints, but technological advancements can extend growth potential."
+  },
+  {
+    "question": "Why don’t all countries just copy the most successful economy?",
+    "answer": "Each country has unique historical, cultural, and resource-based factors that influence economic policies and outcomes."
+  },
+  {
+    "question": "If everyone stops spending money, what happens?",
+    "answer": "A sharp decline in spending can cause a recession, leading to lower GDP, job losses, and economic contraction."
+  },
+  {
+    "question": "Is bartering a good alternative to money?",
+    "answer": "Bartering is inefficient for large-scale economies because it requires a double coincidence of wants, unlike money."
+  },
+  {
+    "question": "What would happen if a country abolished all taxes?",
+    "answer": "Without taxes, governments would struggle to fund infrastructure, public services, and social programs, leading to economic instability."
+  },
+  {
+    "question": "Does money really exist, or is it just a concept?",
+    "answer": "Money is a socially accepted medium of exchange with value derived from trust and government backing."
+  }
+]

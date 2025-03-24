@@ -1,0 +1,431 @@
+[
+    {
+        "question": "Quel est le principe central de l'économie keynésienne?",
+        "answer": "Keynesian economics posits that aggregate demand significantly influences economic output and inflation, and that government intervention can help stabilize the economy."
+    },
+    {
+        "question": "केनेसियन अर्थशास्त्र शास्त्रीय अर्थशास्त्र से कैसे भिन्न है?",
+        "answer": "Keynesian economics focuses on aggregate demand, while classical economics emphasizes aggregate supply. Keynesians believe in government intervention, whereas classical economists advocate for laissez-faire."
+    },
+    {
+        "question": "Quelle était la solution de Keynes à la Grande Dépression?",
+        "answer": "Keynes advocated for stimulating the economy through a combination of monetary policy (lowering interest rates) and fiscal policy (increased government spending)."
+    },
+    {
+        "question": "केनेसियन अर्थशास्त्र में 'गुणक प्रभाव' क्या है?",
+        "answer": "The multiplier effect describes how an initial injection of government spending can lead to a larger increase in overall income due to respending."
+    },
+    {
+        "question": "Qu'est-ce que le concept de «trappe à liquidité»?",
+        "answer": "A liquidity trap occurs when interest rates are so low that monetary policy becomes ineffective in stimulating the economy."
+    },
+    {
+        "question": "Was ist das IS-LM-Modell?",
+        "answer": "The IS-LM model is a graphical representation of Keynesian economics, showing the interaction between interest rates and income."
+    },
+    {
+        "question": "Was ist „Stagflation“ und wie hat sie die keynesianische Ökonomie in Frage gestellt?",
+        "answer": "Stagflation is the combination of high inflation and high unemployment. It posed a challenge to Keynesian economics because traditional Keynesian policies could address one problem but exacerbate the other."
+    },
+    {
+        "question": "Qu'est-ce que la «nouvelle économie keynésienne»?",
+        "answer": "New Keynesian economics attempts to reconcile Keynesian ideas with neoclassical microeconomic foundations, incorporating concepts like sticky prices and rational expectations."
+    },
+    {
+        "question": "Quel était le point de vue de Keynes sur le commerce international?",
+        "answer": "Keynes initially supported free trade but later advocated for regulated trade to eliminate trade imbalances and promote global economic stability.  He believed surplus countries should be taxed."
+    },
+    {
+        "question": "'नवशास्त्रीय संश्लेषण' क्या है?",
+        "answer": "The neoclassical synthesis combines Keynesian macroeconomics with neoclassical microeconomics, representing a dominant approach in post-war economic thought."
+    },
+    {
+        "question": "Qu'est-ce qu'un marché libre?",
+        "answer": "Un marché libre est un système économique où les prix sont déterminés par l'offre et la demande sans intervention gouvernementale."
+    },
+    {
+        "question": "Wie sehen Befürworter freier Märkte regulierte Märkte?",
+        "answer": "Sie kontrastieren freie Märkte mit regulierten Märkten, in denen Regierungen durch Methoden wie Steuern oder Vorschriften eingreifen."
+    },
+    {
+        "question": "Qu'est-ce que le capitalisme laissez-faire ?",
+        "answer": "C'est une forme de capitalisme préconisant une intervention minimale du gouvernement dans l'économie."
+    },
+    {
+        "question": "Was ist das Paradoxon des freien Marktes nach Karl Popper?",
+        "answer": "Es erfordert Interventionen, um Interventionen zu verhindern."
+    },
+    {
+        "question": "What is the criticism of free-market capitalism regarding income distribution?",
+        "answer": "Critics argue it leads to skewed income distribution and economic instability."
+    },
+    {
+        "question": "Was ist spontane Ordnung in Marktwirtschaften?",
+        "answer": "Es ist die Idee, dass komplexe Produktions- und Vertriebsnetzwerke aus dezentralen Einzelentscheidungen entstehen."
+    },
+    {
+        "answer": "Monopolies, information asymmetry, and externalities like pollution.",
+        "question": "बाजार विफलता के कुछ उदाहरण क्या हैं?"
+    },
+    {
+        "answer": "It refers to the shift towards a market-based society, which he believed would undermine human society.",
+        "question": "Qu'est-ce que la « Grande Transformation » selon Karl Polanyi ?"
+    },
+    {
+        "question": "What is the primary role of a central bank, or 'Notenbank' as it's known in German?",
+        "answer": "The primary role of a central bank is typically to maintain price stability, often defined as keeping inflation at a specific level, usually around 2%."
+    },
+    {
+        "question": "How does 'seigniorage', the income from issuing currency, usually benefit a nation?",
+        "answer": "Seigniorage, the profit made by a government from issuing currency, typically belongs to the national government and is often remitted to the treasury."
+    },
+    {
+        "question": "What 'raison d'être', or reason for being, led to the establishment of the Banque de France in 1800?",
+        "answer": "Napoleon established the Banque de France to stabilize and develop the French economy, and to improve the financing of his wars."
+    },
+    {
+        "question": "If a central bank wants to stimulate economic growth, or 'Vikas' as it's known in Hindi, what action might it take regarding interest rates?",
+        "answer": "To stimulate economic growth, a central bank might lower interest rates to encourage borrowing and investment."
+    },
+    {
+        "question": "What is the 'Bundesbank model' of central banking, and why is the Deutsche Bundesbank considered a pioneer of this model?",
+        "answer": "The 'Bundesbank model' refers to a central bank with full independence from political interference. The Deutsche Bundesbank was the first to be granted this level of autonomy in 1951."
+    },
+    {
+        "question": "Beyond 'monetary niti' (monetary policy in Hindi), what other functions might a central bank, or 'Banque Centrale' as it's known in French, perform?",
+        "answer": "Besides monetary policy, a central bank might supervise the banking sector, manage foreign exchange reserves, and act as a lender of last resort."
+    },
+    {
+        "question": "How does a central bank, or 'RBI' (Reserve Bank of India), influence the 'mudra poorti' (money supply in Hindi)?",
+        "answer": "A central bank influences the money supply through open market operations, reserve requirements, and setting interest rates."
+    },
+    {
+        "question": "What is the 'Zéro inférieur' (zero lower bound in French) in the context of monetary policy, and what unconventional measures might be used in such a situation?",
+        "answer": "The zero lower bound refers to a situation where interest rates are at or near zero. Unconventional measures like quantitative easing and negative interest rates might be employed then."
+    },
+    {
+        "question": "How has the 'Weltanschauung' (worldview in German) of central banking evolved regarding environmental goals, like those of the 'Accord de Paris' (Paris Agreement)?",
+        "answer": "Increasingly, central banks are considering incorporating environmental goals into their policies, as seen with the Network for Greening the Financial System (NGFS)."
+    },
+    {
+        "question": "What is the difference between a commercial bank and a 'Banque Centrale' (central bank in French), especially concerning the 'base monétaire' (monetary base)?",
+        "answer": "Unlike commercial banks, a central bank has a monopoly on increasing the monetary base, giving it unique control over a nation's money supply."
+    },
+    {
+        "question": "What is inflation?",
+        "answer": "Inflation is a general increase in prices of goods and services over a period of time, resulting in a decrease in the purchasing power of money."
+    },
+    {
+        "question": "Comment l'inflation est-elle généralement mesurée?",
+        "answer": "Inflation is typically measured using a consumer price index (CPI), which tracks the average change in prices of a basket of goods and services."
+    },
+    {
+        "question": "Was sind die negativen Auswirkungen von Inflation?",
+        "answer": "Negative effects of inflation include reduced purchasing power, uncertainty about future inflation discouraging investment, and potential shortages of goods due to hoarding."
+    },
+    {
+        "question": "मुद्रास्फीति के सकारात्मक प्रभाव क्या हैं? (What are the positive effects of inflation?)",
+        "answer": "Positive effects can include reduced unemployment due to nominal wage rigidity, greater flexibility for central bank monetary policy, and encouragement of lending and investment."
+    },
+    {
+        "question": "What is the 'real bills doctrine'?",
+        "answer": "The real bills doctrine asserts that inflation results when the money supply exceeds the value of the assets backing it.  It suggests banks should only issue money in exchange for short-term real bills of adequate value."
+    },
+    {
+        "question": "How does the 'Quantitätstheorie des Geldes' (Quantity Theory of Money) explain inflation?",
+        "answer": "The Quantity Theory of Money states that changes in the money supply directly affect the price level.  Specifically, it posits that the general price level is related to the level of real economic activity, the quantity of money, and the velocity of money."
+    },
+    {
+        "question": "What is 'stagflation', and how did it challenge Keynesian views?",
+        "answer": "Stagflation is a combination of inflation, slow economic growth, and high unemployment.  It challenged Keynesian views in the 1970s as it presented a situation where inflation was high despite economic stagnation, contradicting the then-dominant understanding of the Phillips curve."
+    },
+    {
+        "question": "How do 'मुद्रास्फीति की उम्मीदें' (inflation expectations) impact the economy?",
+        "answer": "Inflation expectations influence nominal interest rates, wage increases, and the effectiveness of monetary policy.  If people expect high inflation, it can become a self-fulfilling prophecy."
+    },
+    {
+        "question": "What is the 'new consensus' on inflation?",
+        "answer": "The 'new consensus' combines elements of Keynesianism, monetarism, and rational expectations theory. It acknowledges the role of demand shocks, supply shocks, and inflation expectations in driving inflation, emphasizing the importance of central bank credibility."
+    },
+    {
+        "question": "What role did the COVID-19 pandemic play in the 2021-2023 inflation surge?",
+        "answer": "The pandemic contributed to both demand and supply shocks. Demand-side factors included expansionary fiscal and monetary policies. Supply-side factors included supply chain disruptions and energy price increases, exacerbated by the war in Ukraine and potentially sellers' inflation."
+    },
+    {
+        "question": "What is 'dette publique' (French) or Staatsschulden (German), and how does it primarily change?",
+        "answer": "Government debt, also known as public or sovereign debt, represents the total financial liabilities of the government sector. It primarily changes due to borrowing necessitated by past government deficits, which occur when government expenditures surpass revenues."
+    },
+    {
+        "question": "In 2020, what was the approximate 'sarkar ka karz' (Hindi) worldwide relative to global GDP?",
+        "answer": "In 2020, global government debt reached approximately $87.4 trillion, representing 99% of global GDP."
+    },
+    {
+        "question": "What 'raison d'être' (French) do governments have for incurring debt, beyond simply covering deficits?",
+        "answer": "Governments may incur debt not only to cover deficits, but also to implement fiscal policy effectively, avoid tax hikes, and invest in projects with long-term returns."
+    },
+    {
+        "question": "How do 'multilateral vikas bank' (Hindi - multilateral development banks) and other governments play a role in sovereign credit?",
+        "answer": "Multilateral development banks and other governments often provide loans to low-income, highly indebted countries considered too risky for private investors."
+    },
+    {
+        "question": "How is government debt typically measured, and what does 'Schuldtitel' (German - debt instrument) mean in this context?",
+        "answer": "Government debt is typically measured as the gross debt of the general government sector in the form of liabilities that are debt instruments. A debt instrument is a financial claim requiring future payment of interest and/or principal by the debtor to the creditor. Examples include bonds, bills, loans, and government employee pension obligations."
+    },
+    {
+        "question": "Why is 'sarakari karz' (Hindi - government debt) of public corporations like post offices excluded from general government debt calculations?",
+        "answer": "The debt of public corporations, such as post offices operating on a market basis, isn't included in general government debt calculations, adhering to the International Monetary Fund's GFSM 2014 guidelines for international comparability."
+    },
+    {
+        "question": "What's the difference between 'brutto Verschuldung' (German - Gross Debt) and 'netto Verschuldung' (German - Net Debt) for governments?",
+        "answer": "Gross debt is the total liabilities in debt instruments.  Net debt subtracts financial assets held as debt instruments from the gross debt. Net debt estimates aren't always available due to valuation challenges for certain assets like concessional loans."
+    },
+    {
+        "question": "Why is a country's debt-to-GDP ratio considered a more meaningful metric than the 'montant absolu de la dette' (French - absolute amount of debt)?",
+        "answer": "The debt-to-GDP ratio provides a better indication of a country's debt burden relative to its economic output, facilitating comparisons between countries of varying sizes.  It's considered a key indicator of the sustainability of government finance."
+    },
+    {
+        "question": "How does the 'Ricardian Sameness Vorschlag' (German - Ricardian Equivalence Proposition) view the impact of government debt?",
+        "answer": "The Ricardian Equivalence Proposition suggests that government debt has no impact on the economy if individuals are altruistic and factor in the debt's impact on future generations.  They would increase saving and bequests in anticipation of future taxes, offsetting the debt's effect."
+    },
+    {
+        "question": "Why is comparing 'karz' (Hindi - debt) of a government to that of a household often misleading, as per economists?",
+        "answer": "Comparing government debt to household debt is misleading due to vast differences in their functions and constraints. Governments can print money, access lower interest rates, raise taxes, have indefinite planning horizons, hold debt domestically, and possess greater collateral.  Overspending risks for governments primarily relate to inflation, not solely debt size."
+    },
+    {
+        "answer": "In a socialist system, the means of production are socially owned and operated, focusing on production for use rather than profit.  Capitalist systems prioritize private ownership and profit.",
+        "question": "पूंजीवादी व्यवस्था से समाजवादी आर्थिक व्यवस्था क्या अलग करती है?"
+    },
+    {
+        "answer": "Marx saw early hunter-gatherer and some agricultural societies as examples of 'primitive communism,' where resources were shared communally. This concept informed later socialist ideas about communal ownership.",
+        "question": "Wie verhält sich Marx' 'Urkommunismus' zur Entwicklung des sozialistischen Denkens?"
+    },
+    {
+        "answer": "According to Polanyi, the transformation of these elements into market commodities disrupted existing social structures, leading to counter-movements that formed the basis of early socialist movements.",
+        "question": "Welche Rolle spielte die 'Kommodifizierung' von Land, Arbeit und Kapital beim Aufstieg des Sozialismus?"
+    },
+    {
+        "answer": "Anarcho-communism rejects the labor theory of value and advocates for a gift economy based on need, while mutualism supports a labor-based exchange system in a free market.",
+        "question": "Was sind die Hauptunterschiede zwischen 'Anarcho-Kommunismus' und anderen anarchistischen Wirtschaftstheorien wie 'Mutualismus'?"
+    },
+    {
+        "answer": "Wallerstein argues that true socialism requires a new world-system, distinct from the current capitalist world-economy, and that existing socialist states operate within the capitalist framework.",
+        "question": "इम्मानुएल वालरस्टीन के इस कथन से क्या तात्पर्य है, 'आज दुनिया की अर्थव्यवस्था में कोई समाजवादी व्यवस्था नहीं है'?"
+    },
+    {
+        "answer": "Some socialist theories emphasize use-value, while others, like mutualism and market socialism, adapt the labor theory of value or marginal utility to socialist contexts.  Anarcho-communism rejects traditional value theories altogether.",
+        "question": "समाजवादी आर्थिक सिद्धांतों में 'मूल्य' कैसे निर्धारित किया जाता है?"
+    },
+    {
+        "answer": "Critics like Trotsky argued that central planners lack the local knowledge and responsiveness to changing conditions necessary for effective coordination, leading to inefficiencies and shortages.",
+        "question": "Quelles sont certaines critiques des économies planifiées de manière centralisée, même au sein de la pensée socialiste?"
+    },
+    {
+        "answer": "Critics point to the lack of worker self-management, the presence of a bureaucratic elite, and the continued existence of commodity production and capital accumulation as evidence against the Soviet Union being a truly socialist system.",
+        "question": "Warum argumentieren einige, dass die Sowjetunion nicht wirklich sozialistisch war?"
+    },
+    {
+        "answer": "Market socialism combines social ownership of the means of production with market mechanisms for allocating resources. It differs from centrally planned socialism by allowing market forces to determine prices and production levels.",
+        "question": "Was ist 'Marktsozialismus' und wie unterscheidet er sich vom zentral geplanten Sozialismus?"
+    },
+    {
+        "answer": "Democratic socialism advocates for social ownership of the means of production within a democratic political system. It differs from other forms of socialism by emphasizing democratic decision-making and political pluralism.",
+        "question": "Qu'est-ce que le «socialisme démocratique» et en quoi diffère-t-il des autres formes de socialisme?"
+    },
+    {
+        "question": "How does 'Verlustaversion' (German for 'loss aversion') manifest in behavioral economics?",
+        "answer": "Loss aversion, or 'Verlustaversion', is the tendency to feel the pain of a loss more strongly than the pleasure of an equivalent gain, leading to irrational risk aversion in some situations."
+    },
+    {
+        "question": "What 'funda' (Hindi for 'fundamental') shift did cognitive psychology bring to economics?",
+        "answer": "The cognitive revolution in psychology, viewing the brain as an information processor, provided insights into decision-making under risk and uncertainty, influencing economists to reconsider the role of psychology in economic models."
+    },
+    {
+        "question": "How does 'beschränkte Rationalität' (German for 'bounded rationality') challenge traditional economic models?",
+        "answer": "'Beschränkte Rationalität' acknowledges that human decision-making is constrained by cognitive limitations, time, and the complexity of problems, leading to satisficing rather than optimizing."
+    },
+    {
+        "question": "Explain the concept of 'Nudge' with a 'mise en scène' (French for 'staging') example.",
+        "answer": "Nudge involves subtly altering choice architecture to influence behavior without restricting options.  A 'mise en scène' example would be placing healthy food at eye level in a cafeteria to encourage healthier choices."
+    },
+    {
+        "question": "How does 'Avos' (Hindi for 'now') relate to present bias in behavioral economics?",
+        "answer": "Present bias, related to the desire for immediate gratification ('Avos'), describes the preference for smaller, sooner rewards over larger, delayed ones, even if irrational in the long run."
+    },
+    {
+        "question": "What role does 'mansik lekha-jokha' (Hindi for 'mental accounting') play in spending habits?",
+        "answer": "'Mansik lekha-jokha' or mental accounting explains how people categorize money based on its source or intended use, influencing spending decisions and sometimes leading to irrational budgeting."
+    },
+    {
+        "question": "How does behavioral economics contribute to our understanding of 'laissez-faire' economics?",
+        "answer": "Behavioral economics challenges the assumptions of pure rationality and self-interest underlying 'laissez-faire' economics, demonstrating how psychological factors can lead to market inefficiencies and suboptimal outcomes."
+    },
+    {
+        "question": "How has the 'Geist' (German for 'spirit') of behavioral economics influenced policy?",
+        "answer": "The 'Geist' of behavioral economics, recognizing predictable irrationalities, has led to policy interventions like nudges and choice architecture modifications to improve public welfare."
+    },
+    {
+        "question": "What is the 'kendrabindu' (Hindi for 'focal point') of behavioral finance?",
+        "answer": "The 'kendrabindu' of behavioral finance is understanding how psychological biases affect investor behavior and market outcomes, challenging the efficient market hypothesis of traditional finance."
+    },
+    {
+        "question": "What does a steigende Consumer Confidence Index (CCI) indicate about the Wirtschaft?",
+        "answer": "A rising CCI generally indicates economic growth, as consumers are more likely to spend money, leading to higher consumption."
+    },
+    {
+        "question": "If the CCI experiences a baisse of more than 5%, what does it often suggest?",
+        "answer": "A decrease of more than 5% in the CCI often suggests a change in the direction of the economy, potentially towards a downturn."
+    },
+    {
+        "question": "How do manufacturers react to a गिरता CCI?",
+        "answer": "Manufacturers may reduce inventories, delay investments, and anticipate lower consumer spending, especially on big-ticket items."
+    },
+    {
+        "question": "What  सरकारी  actions might be taken in response to a declining CCI?",
+        "answer": "Governments might issue tax rebates or implement other fiscal or monetary policies to stimulate the economy."
+    },
+    {
+        "question": "Conversely, what can businesses expect with a  hausse in consumer confidence?",
+        "answer": "Businesses can anticipate increased production, hiring, and demand for credit with a rising CCI."
+    },
+    {
+        "question": "Why are consumer demand surveys conducted over shorter timeframes (e.g., 3 months) preferred?",
+        "answer": "Shorter timeframes provide insights closer to actual consumer behavior, as longer periods introduce more uncertainty and 'hopeful' responses."
+    },
+    {
+        "question": "Besides economic conditions, what other factors do consumer confidence and sentiment surveys measure?",
+        "answer": "These surveys also gauge public opinion on the government's performance and the perceived opportune times for major purchases like houses or cars."
+    },
+    {
+        "question": "Provide an example where consumer confidence and demand surveys diverged.",
+        "answer": "In 2011, confidence surveys rose from March to April, while demand surveys dropped, and the opposite occurred in August-October."
+    },
+    {
+        "question": "Which organizations conduct consumer confidence surveys in Canada, Indonesia, and Ireland respectively?",
+        "answer": "The Conference Board of Canada, Bank Indonesia (CS-BI), and KBC Bank Ireland (with ESRI) conduct these surveys in their respective countries."
+    },
+    {
+        "question": "What are the five questions used by The Conference Board in their US consumer confidence survey?",
+        "answer": "The five questions relate to current business conditions, business conditions six months ahead, current employment conditions, employment conditions six months ahead, and total family income six months ahead."
+    },
+    {
+        "question": "What is the Chicago school of economics, and who are its leading figures?",
+        "answer": "The Chicago school is a neoclassical economic thought school linked to the University of Chicago faculty. Milton Friedman and George Stigler are considered its leading scholars."
+    },
+    {
+        "question": "How did Chicago macroeconomic theory evolve over time?",
+        "answer": "Initially rejecting Keynesianism for monetarism, it shifted to new classical macroeconomics based on rational expectations by the mid-1970s.  The freshwater-saltwater distinction has become less relevant as both traditions have incorporated each other's ideas."
+    },
+    {
+        "question": "What 'école' (French for school) of macroeconomic thought did the Chicago school initially reject?",
+        "answer": "The Chicago school initially rejected Keynesianism."
+    },
+    {
+        "question": "Besides macroeconomics, what other 'Felder' (German for fields) have been influenced by Chicago economists?",
+        "answer": "Chicago economists have influenced public choice theory, law and economics, social economics, and economic history."
+    },
+    {
+        "question": "How many Nobel Prizes and 'Auszeichnungen' (German for awards), specifically the John Bates Clark Medals, has the University of Chicago Economics Department received?",
+        "answer": "As of 2022, the department has been awarded 14 Nobel Prizes in Economic Sciences and six John Bates Clark Medals."
+    },
+    {
+        "question": "What does the term \"Old Chicago\" refer to, and what were their primary 'Sorge' (German for concerns)?",
+        "answer": "\"Old Chicago\" refers to the first generation (1920s-1940s) of Chicago economists like Frank Knight, Henry Simons, and Aaron Director. They focused on incentives and the complexity of economic events rather than general equilibrium."
+    },
+    {
+        "question": "What 'naam' (Hindi for name) is given to the branch of Chicago thought inspired by the Coasian view?",
+        "answer": "That branch is called \"Chicago political economy\"."
+    },
+    {
+        "question": "What was Milton Friedman's 'vichar' (Hindi for thought) on government intervention in the economy?",
+        "answer": "Friedman advocated for laissez-faire government policy, believing that government intervention often has unintended negative consequences."
+    },
+    {
+        "question": "Which economist is known for his work on 'Such-Arbeitslosigkeit' (German for search unemployment)?",
+        "answer": "George Stigler is known for developing the theory of search unemployment."
+    },
+    {
+        "question": "Which term, originating from Frank Knight's work, describes the concept of immeasurable uncertainty?",
+        "answer": "The term is \"Knightian uncertainty\"."
+    },
+    {
+        "answer": "The 'sweet spot' refers to the equilibrium point where supply and demand intersect, resulting in the market clearing price and quantity.",
+        "question": "Quel est le «point idéal» dans le contexte de l'équilibre du marché?"
+    },
+    {
+        "answer": "An excess supply is observed, putting downward pressure on the price.",
+        "question": "Was wird beobachtet, wenn der Preis über dem Gleichgewicht liegt, und welchen Druck übt dies auf den Preis aus?"
+    },
+    {
+        "answer": "No, some competitive equilibria can be unstable.",
+        "question": "क्या प्रत्येक संतुलन में स्थिरता गुण (P3) होता है?"
+    },
+    {
+        "answer": "The amount demanded and the amount supplied at the equilibrium price are not equal, hence P1 is not satisfied.",
+        "question": "¿En un monopolio, qué propiedad de equilibrio relativa a la oferta y la demanda (P1) no se cumple?"
+    },
+    {
+        "answer": "The Nash equilibrium.",
+        "question": "Quale concetto viene utilizzato come principale alternativa all'equilibrio competitivo quando è coinvolto il comportamento strategico?"
+    },
+    {
+        "answer": "Each firm chooses its output to maximize its profits given the output of the other firm.",
+        "question": "O que Cournot assumiu sobre as escolhas de produção das empresas em seu modelo de duopólio?"
+    },
+    {
+        "answer": "Underemployment equilibrium, where a surplus of labor coexists with a shortage of aggregate demand.",
+        "question": "ケインズ派マクロ経済学は、均衡に関してどのような経済現象を強調しましたか?"
+    },
+    {
+        "answer": "Plotting the supply and demand curves.",
+        "question": "Какой графический метод можно использовать для определения равновесной цены?"
+    },
+    {
+        "answer": "Comparative statics.",
+        "question": "比较两个静态均衡的过程叫什么？"
+    },
+    {
+        "answer": "Various quantities may all be growing at the same rate, leaving their ratios unchanging.",
+        "question": "في سياق التوازن الديناميكي، كيف تتصرف الكميات المختلفة في نموذج النمو الكلاسيكي الجديد؟"
+    },
+    {
+        "question": "What is the 'raison d'être' of urban economics?",
+        "answer": "Urban economics is the economic study of urban areas, using economic tools to analyze urban issues like crime, education, public transit, housing, and local government finance. It focuses on the urban spatial structure and location of households and firms."
+    },
+    {
+        "question": "While influenced by various schools of thought like Marxist economics, what 'Weltanschauung' dominates contemporary urban economics, particularly in the Global North?",
+        "answer": "The neoclassical perspective dominates contemporary urban economics, especially in the Global North, and influences mainstream media like The Economist."
+    },
+    {
+        "question": "What is the foundational model in urban economics, and how has 'zeitgeist' like technological advancements impacted its relevance?",
+        "answer": "The monocentric city model, pioneered by Alonso, Muth, and Mills, is foundational. However, faster and cheaper transportation and communication technologies have led to polycentricity, weakening the monocentric model's dominance."
+    },
+    {
+        "question": "How does urban economics address the 'raison d'être' and 'karma' of cities?",
+        "answer": "By studying location decisions of firms and households, urban economics explains why cities develop where they do, their size differences, economic growth and decline, and the influence of local governments."
+    },
+    {
+        "question": "How does the concept of 'laissez-faire' apply to the market forces shaping urban development?",
+        "answer": "While market forces are crucial, urban economics also considers the influence of local government interventions and policies, which often deviate from pure 'laissez-faire' principles."
+    },
+    {
+        "question": "Explain the 'kendra' of economic activity within cities and how urban economics analyzes it?",
+        "answer": "Urban economics analyzes the spatial organization of activities within cities, focusing on factors influencing land prices, the spread of employment from the central core, and the impact of land-use controls like zoning."
+    },
+    {
+        "question": "How does urban economics address the interplay of 'sanskriti' (culture) and economic policy within urban areas?",
+        "answer": "While urban economics primarily focuses on economic factors, it indirectly addresses cultural influences by considering how local preferences and norms impact urban development and policy."
+    },
+    {
+        "question": "How does the 'gatividhi' (movement) of people and goods, particularly through urban transportation, influence land-use patterns?",
+        "answer": "Urban transportation affects land-use patterns by influencing the accessibility of different locations.  Urban economics analyzes issues like transit deficits and the efficiency of transportation developments."
+    },
+    {
+        "question": "Discuss the 'dukha' (problems) related to housing and public policy within an urban economic context.",
+        "answer": "Housing's immobility links it to location choices. Urban economics analyzes these choices alongside market effects of housing policies, considering challenges like funding, uncertainty, and space constraints."
+    },
+    {
+        "question": "How does urban economics evaluate the 'prashasan' (governance), particularly the efficiency of local government expenditures and taxes?",
+        "answer": "Urban economics analyzes the efficiency of fragmented local governments in metropolitan areas, considering their impact on resource allocation and urban development."
+    }
+]
+       

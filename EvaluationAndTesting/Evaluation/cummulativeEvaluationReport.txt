@@ -1,0 +1,11 @@
+Evaluation Summary:
+Mean Scores:
+  Semantic Similarity: 0.6735
+  Rouge: 0.3072
+  Bleu: 0.0999
+  BERTScore: 0.3490
+  Final Score: 0.6735
+Total Test Cases: 1354
+Passed Test Cases: 1084
+Failed Test Cases: 270
+Percentage Above Threshold: 80.05908419497784

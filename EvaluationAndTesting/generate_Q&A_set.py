@@ -52,14 +52,15 @@ class Gen_QA():
         all_questions_and_answers = []
         
         articles_folder = 'articles'
-        for filename in os.listdir(articles_folder):
+        for filename in os.listdir(articles_folder)[]:
             if filename.endswith('.txt'):
                 title = filename.replace('.txt', '')
                 with open(os.path.join(articles_folder, filename), 'r', encoding='utf-8') as file:
                     content = file.read()
-                prompt = f"Generate 20 questions and their answers in JSON format based on the following content:\n{content}"
+                prompt = f"Generate 10 questions and their answers in JSON format based on the following content:\n{content}"
                 questions_and_answers = Gen_QA.generate_questions_and_answers(prompt)
                 all_questions_and_answers.extend(questions_and_answers)
+                print(f"Questions and answers generated for {title}")
         Gen_QA.save_to_file(all_questions_and_answers, os.path.join(qa_folder, 'golden_set.json'))
 
 if __name__ == "__main__":

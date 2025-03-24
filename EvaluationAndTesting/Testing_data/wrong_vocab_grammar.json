@@ -1,0 +1,455 @@
+
+[
+    {
+        "question": "Is Keynesian economics 'bout supply-side or demand-side stuffs, and why's it matter for 'flation?",
+        "answer": "Keynesian economics focuses on demand-side factors.  It says that total spending (aggregate demand) is key for output and inflation.  If demand's too low, you get recessions; too high, and you get inflation."
+    },
+    {
+        "question": "What's the Great Depression gotta do with Keynes and his wacky 'conomics?",
+        "answer": "Keynes developed his theories during and after the Great Depression.  His book, 'The General Theory,' offered a different approach than the classical economics that existed before, which couldn't explain the Depression well."
+    },
+    {
+        "question": "Ain't Keynesian 'conomics all 'bout gubment spendin' all the time?",
+        "answer": "While Keynesian economics does advocate for government intervention, it's not about constant spending. It suggests using government spending and tax adjustments to stabilize the economy, spending more during downturns and less during booms (counter-cyclical policy)."
+    },
+    {
+        "question": "So, like, what's this 'multiplier' thingy Keynes was talkin' 'bout?",
+        "answer": "The multiplier effect is the idea that an initial increase in spending (like government spending) leads to a larger overall increase in economic activity as money circulates through the economy."
+    },
+    {
+        "question": "Did Keynes hate free tradin' or somethin'?",
+        "answer": "While initially a supporter of free trade, Keynes later advocated for regulated trade to address imbalances, especially after the Great Depression. He believed that surplus countries negatively impacted global demand."
+    },
+    {
+        "question": "What's the deal with this 'liquidity trap' thingy?",
+        "answer": "A liquidity trap happens when interest rates are so low that monetary policy becomes ineffective in stimulating the economy. People hoard cash rather than invest, even with low interest rates."
+    },
+    {
+        "question": "Did Keynesian 'conomics totally flop in the 70s?",
+        "answer": "Keynesian economics faced challenges in the 1970s with stagflation (high inflation and unemployment), which led to a decline in its popularity and the rise of alternative schools of thought."
+    },
+    {
+        "question": "Is Keynesian 'conomics like, totally socialist?",
+        "answer": "Keynesian economics advocates for a regulated market economy, primarily private sector, but with government intervention to stabilize the economy. It's not a socialist system."
+    },
+    {
+        "question": "Why do some folks hate on Keynesian 'conomics so much?",
+        "answer": "Keynesian economics has faced criticism from various schools of thought, including monetarists, new classical economists, and some Marxists, who disagree with its assumptions about government intervention, market equilibrium, and the role of money."
+    },
+    {
+        "question": "So, like, is Keynesian 'conomics still a thing today?",
+        "answer": "Keynesian economics has evolved, and its core ideas still influence modern macroeconomic theory and policy, especially during economic crises, although its dominance has been challenged by other schools of thought."
+    }
+,
+    {
+        "question": "Do proponents for the free market believes in goverment intervention in supply and demand?",
+        "answer": "No, proponents of the free market generally oppose government intervention in supply and demand, believing that it distorts market mechanisms and hinders efficiency."
+    },
+    {
+        "question": "Is capitalism always assosiated to freemarket?",
+        "answer": "While commonly associated, free markets are not exclusive to capitalism and have been components of some forms of market socialism."
+    },
+    {
+        "question": "Can you name one form of market failure?",
+        "answer": "Monopolies, externalities like pollution, and information asymmetry are examples of market failures."
+    },
+    {
+        "question": "What's the different between a free market and a coordinated market according to scholars?",
+        "answer": "Scholars highlight that coordinated markets acknowledge the role of institutions and rules beyond supply and demand in shaping market outcomes, whereas the idealized free market focuses solely on those forces."
+    },
+    {
+        "question": "Who supports the idea of a land value tax to eliminate other taxes?",
+        "answer": "Henry George, a prominent advocate of this idea, believed a land value tax could replace other taxes and improve market function."
+    },
+    {
+        "question": "Does a free market absolutely needs competition?",
+        "answer": "A free market doesn't require the *existence* of competition initially, but it needs a framework that *allows* for new entrants and thus fosters competition."
+    },
+    {
+        "question": "What did Adam Smith means with his 'invisible hand'?",
+        "answer": "Smith's 'invisible hand' suggests that individuals pursuing self-interest in a free market unintentionally benefit society by contributing to efficient resource allocation."
+    },
+    {
+        "question": "Who wrote the theory of the 'Shock Doctrine'?",
+        "answer": "Naomi Klein wrote 'The Shock Doctrine,' which explores the exploitation of crises to implement free-market policies."
+    },
+    {
+        "question": "What is 'free-market fundamentalism' according to Cornel West?",
+        "answer": "West uses 'free-market fundamentalism' to criticize dogmatic support for laissez-faire policies, arguing that they prioritize profit over the common good."
+    },
+    {
+        "question": "What do critics of laissez-faire free markets generally argue?",
+        "answer": "Critics often argue that laissez-faire systems are susceptible to monopolies, inequalities, and market failures, necessitating government intervention."
+    }
+,
+    {
+        "question": "Whats is a central bank do, and why is governments sometimes doesn't like it?",
+        "answer": "Central banks manage a country's money supply, interest rates, and financial stability. Governments sometimes clash with them over policies, especially during economic difficulties, as central bank decisions can impact economic growth and employment."
+    },
+    {
+        "question": "Is central banks always old, or did they just pop up recently?",
+        "answer": "The idea of a central bank evolved over time.  While some early institutions performed similar functions, the modern concept solidified in the 20th century. Many central banks were established after World War I and World War II."
+    },
+    {
+        "question": "Do all central banks got the same name, like 'The Bank of' something?",
+        "answer": "No, central bank names vary. Some are 'The Bank of [Country]', but others use different terms like 'Reserve Bank', 'National Bank', 'Monetary Authority', or even the local language name."
+    },
+    {
+        "question": "Who's the big cheese at a central bank – is it a King or something?",
+        "answer": "The leading executive is usually called the Governor, President, or Chair, not a King."
+    },
+    {
+        "question": "So, central banks just print money whenever, right?",
+        "answer": "No.  They control the money supply through various tools like setting interest rates, open market operations (buying/selling assets), and reserve requirements for commercial banks. They aim for stable inflation, not just printing money."
+    },
+    {
+        "question": "If central banks make so much moneys, who gets it?",
+        "answer": "The income from issuing currency (seigniorage) usually goes to the national government."
+    },
+    {
+        "question": "Can central banks makes everybody rich quick?",
+        "answer": "No. Central bank policies aim for long-term economic stability,  managing inflation, and minimizing unemployment.  They don't try to create quick riches."
+    },
+    {
+        "question": "Are central banks like the world's police for moneys?",
+        "answer": "They have some regulatory and supervisory powers over commercial banks to ensure financial stability and prevent crises, but they aren't global money police."
+    },
+    {
+        "question": "Does central banks care about the planet getting hotter?",
+        "answer": "There's a growing debate about whether central banks should consider climate change in their policies. Some argue they should promote green finance, while others believe it's not their role."
+    },
+    {
+        "question": "Is central bank like a puppet of the government?",
+        "answer": "Many central banks are designed to be independent from political influence to avoid short-term policy manipulations, but governments still have some oversight and appoint leadership."
+    }
+,
+    {
+        "question": "Whatchamacallit CPI deflation and why's it matter?",
+        "answer": "CPI deflation be the opposite of CPI inflation – meaning the general price level of goods and services goes down.  This make your money worth more, so you can buy more stuff with the same amount of cash."
+    },
+    {
+        "question": "If everyone suddenly loves cucumbers, do cucumbers become 'inflatated'?",
+        "answer": "Nah, that ain't inflation. That's just supply and demand doing their thing. Inflation is about the value of money itself going down, not just one thing getting pricier."
+    },
+    {
+        "question": "If the govermint prints lotsa money, what happens to prices?",
+        "answer": "Prices go up!  More money chasing the same amount of goods means each piece of money is worth less, so things cost more. This is a kinda 'currency depreciation'."
+    },
+    {
+        "question": "Why economists like inflation but regular folks don't?",
+        "answer": "Some economists think a little inflation is good because it can help with things like jobs and stopping recessions. But regular folks don't like it 'cause it makes stuff more 'spensive and feels like the government is sneakily taking their money."
+    },
+    {
+        "question": "Is 'stagflation' when a stag inflates?",
+        "answer": "Nope. Stagflation is when you got inflation, slow economic growth, and high unemployment all at the same time. It's a bad combo."
+    },
+    {
+        "question": "What's the 'Big Moderate' thingy?",
+        "answer": "The 'Great Moderation' is a period since the 1980s where inflation has been pretty low and stable in lots of countries.  This has made economies more steady overall."
+    },
+    {
+        "question": "Did Alexander the Great cause inflation by conquering too much?",
+        "answer": "Kinda.  One of the earliest recorded inflation periods happened after he conquered the Persian Empire.  It might have been because of all the extra gold and silver flooding the economy."
+    },
+    {
+        "question": "If a king gives away all his gold, does that make stuff cheaper?",
+        "answer": "Actually, it can make stuff *more* expensive in the places where he spends it.  King Mansa Musa did this on his pilgrimage to Mecca, and it messed with the price of gold for years."
+    },
+    {
+        "question": "What's 'core inflation,' and why do the Feds care 'bout it?",
+        "answer": "Core inflation is inflation but without food and energy prices, which bounce around a lot. The Federal Reserve looks at core inflation to get a better idea of what inflation will be like in the future."
+    },
+    {
+        "question": "If I buy a better can of corn for more money, is that inflation?",
+        "answer": "Not really. If the quality of something goes up along with the price, it's not the same as inflation. Inflation is about the *same* stuff costing more."
+    }
+,
+    {
+        "question": "Whats is goverment debt and why is it goes up?",
+        "answer": "Goverment debt is like when the country owes money. It goes up mostly cuz the goverment spends more money than it gets from taxes and stuff, which is called a deficit."
+    },
+    {
+        "question": "Is goverment debt always bad? Give examples.",
+        "answer": "No, not always.  Sometimes goverments borrow money for good things like building roads or helping people during bad times like recessions.  For example, during the COVID-19 pandemic, many countries borrowed a lot to help their economies."
+    },
+    {
+        "question": "Who lends money to goverments?",
+        "answer": "Lots of different actors, like regular people, banks, the World Bank, and even other countries.  Poorer countries usually borrow from organizations like the World Bank, while richer countries can sell things called bonds."
+    },
+    {
+        "question": "How we measure how much debt a country gots?",
+        "answer": "Usually by looking at the 'debt-to-GDP ratio'. This compares the country's debt to its GDP, which is like the total value of everything it produces in a year.  This helps compare debt across different sized countries."
+    },
+    {
+        "question": "Explain 'deficit bias' with an example.",
+        "answer": "Deficit bias is like when different groups in a country can't agree on how the goverment should spend money, which can lead to too much borrowing.  Imagine if one group wants to spend lots on healthcare and another wants to spend lots on defense - it can be hard to balance the budget."
+    },
+    {
+        "question": "Is goverment debt similar to household debt? Why or why not?",
+        "answer": "No, they're very different. Goverments can do things households can't, like print money and raise taxes. Also, goverments last much longer than households, so they have more time to pay back debt."
+    },
+    {
+        "question": "What's a 'debt crises' and how can it happen?",
+        "answer": "A debt crisis is when a country can't pay back its debts and can't borrow any more money. This can happen if a country borrows too much or if its economy does really bad."
+    },
+    {
+        "question": "Can goverments just print money to pay off debt?  Is there a problem?",
+        "answer": "Sometimes, yes, especially if the debt is in their own currency. But printing too much money can cause inflation, which means things get more expensive."
+    },
+    {
+        "question": "What are 'contingent liabilities', and why are they important?",
+        "answer": "Contingent liabilities are like debts that a goverment might have to pay in the future, but only if something specific happens.  Like, if the goverment guarantees a loan and the borrower can't pay it back, the goverment has to step in."
+    },
+    {
+        "question": "How has goverment debt changed over time, say from a long time ago to now?",
+        "answer": "Goverment debt has existed for a very long time.  In the past, countries sometimes defaulted on their debts, meaning they didn't pay them back. Nowadays, there are more established systems for managing debt, but global debt levels are still very high."
+}
+,
+    {
+        "question": "Is socialism economics basically just sharey-sharey of factory things and not worry 'bout money?",
+        "answer": "Socialist economics involves social ownership and operation of the means of production, sometimes prioritizing use-value over profit.  Different socialist models address markets, planning, and resource valuation in various ways, so it's more complex than simply sharing."
+    },
+    {
+        "question": "Did Marx and Engels think cavemen wuz like, the first commies?",
+        "answer": "Marx and Engels referred to hunter-gatherer and some early agricultural societies as 'primitive communist' because they exhibited communal ownership and resource sharing."
+    },
+    {
+        "question": "If socialism 'bout makin' everyone equal, why Saint-Simon wanna rank people?",
+        "answer": "While some early socialists aimed for social leveling, Saint-Simon envisioned a meritocratic system where people were ranked by ability and rewarded based on work, not simply equal outcomes."
+    },
+    {
+        "question": "Did Marx finish his big book 'bout money stuff?",
+        "answer": "Marx's *Das Kapital* is a multi-volume work on political economy, but he only completed two volumes, leaving Engels to finish the third.  It's a complex analysis of capitalism's dynamics."
+    },
+    {
+        "question": "Anarchist economics...is that like, no rules for money?",
+        "answer": "Anarchist economics encompasses various schools of thought, including mutualism, collectivist anarchism, and anarcho-communism, each with distinct approaches to property, labor, and exchange, not simply the absence of rules."
+    },
+    {
+        "question": "If socialism is 'bout no capitalism, how can there be 'market socialism'?",
+        "answer": "Market socialism utilizes markets for allocating capital goods and factors of production while retaining social ownership of the means of production, creating a hybrid system."
+    },
+    {
+        "question": "Did Einstein think socialism was, like, the bestest?",
+        "answer": "Albert Einstein advocated for a socialist economy with an education system oriented toward social goals, believing it could eliminate the 'grave evils' of capitalism."
+    },
+    {
+        "question": "Is plannin' the economy like, tellin' everyone what to do?",
+        "answer": "While central planning, as seen in the Soviet Union, involved directive allocation of resources, other forms of economic planning exist, including decentralized and participatory models."
+    },
+    {
+        "question": "Wuz the Soviet Union really socialist or just a big fake?",
+        "answer": "The nature of the Soviet Union's economic system is debated. Some argue it deviated from socialist principles due to its bureaucratic structure and lack of worker self-management, while others defend it as a form of socialism."
+    },
+    {
+        "question": "Is China still kinda commie or just all 'bout the money now?",
+        "answer": "China's current economic system is a mixed economy with a significant role for both state-owned enterprises and a growing private sector within a market framework, described as a 'socialist market economy'."
+    }
+,
+    {
+        "question": "Whatchamacallit behavioral economics mostly 'bout?",
+        "answer": "Behavioral economics studies how psychology affects people's and institutions' money choices, and how these choices are different from what regular economics expects."
+    },
+    {
+        "question": "Is behavioral economics like, a new thingamajig?",
+        "answer": "While it really took off in the 1970s and 80s, early economists like Adam Smith considered psychology's role in economics way back in the 18th century."
+    },
+    {
+        "question": "Why'd they ditch psychology from economics in the early 1900s?",
+        "answer": "Economists got scared that psychology was too wishy-washy and would mess up their math stuff, so they focused on things they could measure instead of feelings."
+    },
+    {
+        "question": "What's the big deal 'bout Kahneman and Tversky?",
+        "answer": "Their work on prospect theory in the late 20th century, especially the 1979 paper and the 1992 revision, really brought psychology back into economics and helped establish behavioral economics as a field."
+    },
+    {
+        "question": "What's this 'bounded rationality' thingy?",
+        "answer": "It means people aren't perfect decision-makers because their brains can only handle so much info, they don't have all the time in the world, and some decisions are just too hard."
+    },
+    {
+        "question": "So, 'nudging' is like, brainwashing, right?",
+        "answer": "Not exactly. Nudging is about making small changes to choices to encourage better decisions, like putting healthy food at eye level.  It's supposed to be easy to ignore, unlike a ban."
+    },
+    {
+        "question": "What's all this 'heuristics' mumbo jumbo?",
+        "answer": "Heuristics are mental shortcuts people use to make quicker decisions, like 'satisficing' (finding something 'good enough') or 'elimination by aspects' (picking based on specific qualities)."
+    },
+    {
+        "question": "Ain't behavioral finance just a bunch of weird stuff?",
+        "answer": "Critics say it's just a collection of anomalies that the market quickly fixes or that are explained by market microstructure.  Behavioral finance folks argue that social biases can create feedback loops that push the market away from fair prices."
+    },
+    {
+        "question": "Do robots make better money choices than us dummies?",
+        "answer": "Some research suggests that AI in markets can reduce the impact of our bad decisions by making information more equal and improving the decision-making process."
+    },
+    {
+        "question": "Why do some stuffy economists hate behavioral economics?",
+        "answer": "They don't trust the experiments and surveys, think people are mostly rational, and say behavioral economics doesn't have a single grand theory to replace the old one."
+    }
+,
+    {
+        "question": "Whatchamacallit thingy, the CCI, it goes up, that's good for 'conomy, right?",
+        "answer": "Yeah, kinda.  Higher CCI usually means people feel good 'bout spendin' money, which helps the economy grow."
+    },
+    {
+        "question": "If CCI go down, like, 5%, is that a big whoop?",
+        "answer": "Nah, not really.  Gotta be more than 5% to really mean somethin'."
+    },
+    {
+        "question": "So, like, how do they even figure out this CCI thingy?",
+        "answer": "They ask people bunch of questions 'bout their money and if they gonna buy stuff, then do some math magic to make a number."
+    },
+    {
+        "question": "If people ain't feelin' good 'bout their jobs, does that mess with CCI?",
+        "answer": "Totally! If people worried 'bout jobs, they ain't buyin' big stuff like cars and houses, which makes CCI go down."
+    },
+    {
+        "question": "Gover'ment, they do anything if CCI is tankin'?",
+        "answer": "Sometimes. They might give out tax breaks or do other stuff to try and boost the 'conomy."
+    },
+    {
+        "question": "If CCI goin' up, is that good for, like, banks?",
+        "answer": "Yep.  Means more people want loans 'n stuff, which is good for banks."
+    },
+    {
+        "question": "Do they only do this CCI thing in 'Merica?",
+        "answer": "Nope, lots of countries do it.  Canada's been doin' it since, like, 1980."
+    },
+    {
+        "question": "Is askin' people what they gonna buy in 3 months better than askin' 'bout a whole year?",
+        "answer": "Yeah, 'cause what people say they gonna do in a year is probably just wishful thinkin'."
+    },
+    {
+        "question": "Does CCI always tells the truth 'bout the 'conomy?",
+        "answer": "Mostly, but sometimes it can be wrong, 'specially when things are crazy, like during a big crisis or somethin'."
+    },
+    {
+        "question": "Who's this 'Conference Board' peeps, and what they got to do with CCI?",
+        "answer": "They're a group that does 'conomic research and they're the main ones who put out the CCI numbers in the US."
+    }
+,
+    {
+        "question": "Whats the Chicago school of economics mostly 'bout?",
+        "answer": "It's a neoclassical economic thought group linked to University of Chicago folks like Milton Friedman and George Stigler, known for stuff like monetarism, rational expectations, and influencing areas like public choice theory and law and economics."
+    },
+    {
+        "question": "Didn't they like, hate Keynesianism?",
+        "answer": "Yeah, Chicago macroeconomists initially dissed Keynesianism for monetarism, but then switched to new classical macroeconomics with rational expectations.  Nowadays, the lines are kinda blurry, with new Keynesian economics incorporating rational expectations."
+    },
+    {
+        "question": "How many Nobel Prizes did they gets?",
+        "answer": "As of 2022, the University of Chicago's Economics department got 14 Nobel Prizes in Economics, more than any other university. But not everyone there is part of the 'Chicago school', it's a way of thinking, not a club."
+    },
+    {
+        "question": "Is 'Chicago school' like, a real school?",
+        "answer": "Nah, the term started in the 1950s for economists at the University of Chicago's Economics Department and related areas like Booth and the Law School. In macroeconomics, it's linked to the 'freshwater' school, unlike the 'saltwater' schools on the coasts."
+    },
+    {
+        "question": "Weren't they like, weirdos in the 50s?",
+        "answer": "Totally, since Keynesian economics was super popular then, the Chicago school was seen as heterodox – going against the grain."
+    },
+    {
+        "question": "Is there like, an 'Old Chicago' too?",
+        "answer": "Yup, the 'Old Chicago' or first-generation was around the 1920s-1940s with peeps like Frank Knight and Henry Simons. They were into incentives and how complex economics is, rather than general equilibrium stuff."
+    },
+    {
+        "question": "What's 'Chicago political economy' then?",
+        "answer": "It's a branch of Chicago thought that basically says politics aims for efficiency, so policy advice is pointless – kinda controversial."
+    },
+    {
+        "question": "Who's this Frank Knight dude?",
+        "answer": "He was an early Chicago guy, joined in 1929. His book 'Risk, Uncertainty and Profit' introduced 'Knightian uncertainty'. He was a bit of a rebel, different from later Chicago thinkers, thinking free markets could be inefficient but government was worse."
+    },
+    {
+        "question": "What did Gary Becker do?",
+        "answer": "He got the Nobel Prize in 1992.  He applied economics to stuff like crime and relationships, assuming people are rational. His work kinda inspired 'Freakonomics'."
+    },
+    {
+        "question": "Wasn't there some beef after 2008?",
+        "answer": "Yeah, after the financial crisis, people questioned Fama's efficient-market hypothesis. Some economists even said the Chicago school had an 'intellectual collapse', but Chicago folks fired back, saying those criticisms were personal attacks."
+    }
+,
+    {
+        "question": "Is economic equilibrium when supply is more lesser than demand?",
+        "answer": "No, economic equilibrium is when supply and demand are balanced, meaning they are equal."
+    },
+    {
+        "question": "The 'sweet spot' is also know as what?",
+        "answer": "The 'sweet spot' is another term for the equilibrium point."
+    },
+    {
+        "question": "Does P1, P2, and P3 always gotta be meet for a stable equilibrium?",
+        "answer": "While desirable, not all stable equilibria meet all three properties (P1, P2, and P3)."
+    },
+    {
+        "question": "If supply goes up, do prices also go up?",
+        "answer": "No, an increase in supply typically leads to lower prices."
+    },
+    {
+        "question": "In monopoly, is MR equal to MC or demand?",
+        "answer": "In a monopoly, marginal revenue (MR) equals marginal cost (MC) at the profit-maximizing quantity."
+    },
+    {
+        "question": "Nash equilibrium is like competitive equilibrium but without price what?",
+        "answer": "The Nash equilibrium is used when the 'price taking' assumption of competitive equilibrium is not appropriate, often due to strategic behavior."
+    },
+    {
+        "question": "Do economists thinks equilibrium price means everything good?",
+        "answer": "No, economists caution against assigning a normative meaning (value judgment) to the equilibrium price.  It doesn't guarantee desirable social outcomes."
+    },
+    {
+        "question": "Did Adam Smith like central planning better than free markets?",
+        "answer": "No, Adam Smith believed free markets tended towards equilibrium through the price mechanism, unlike central planning."
+    },
+    {
+        "question": "If there's underemployment, is the labor market in equilibrium?",
+        "answer": "Keynesian economics suggests underemployment can exist as an equilibrium, where a labor surplus coexists with insufficient demand."
+    },
+    {
+        "question": "Comparative statics compares two what equilibria?",
+        "answer": "Comparative statics compares two static equilibria to understand the impact of changes in market conditions."
+    }
+,
+    {
+        "question": "Explain von Thunen's monocentric city model and it's important in urban economics?",
+        "answer": "Von Thünen didn't create a monocentric city model; that was Alonso, Muth, and Mills. The monocentric model is important because it provides a basic framework for understanding how land use and transportation costs influence urban development, even though real cities are more complex."
+    },
+    {
+        "question": "Why is urban economics only focused on Marxist economics and how does this relate to the Economist magazine?",
+        "answer": "Urban economics draws from various schools of thought, not just Marxism. While influenced by historical perspectives, modern urban economics is primarily neoclassical. The Economist, reflecting mainstream views, often uses this neoclassical lens in its urban analyses."
+    },
+    {
+        "question": "What is polycentricity and how does Edge Cities relate to cheaper transportation?",
+        "answer": "Polycentricity refers to cities with multiple centers of activity, unlike the single-center monocentric model. Joel Garreau's 'Edge City' concept describes these sub-centers. Cheaper transportation contributes to polycentricity by allowing businesses and people to move away from the traditional central business district."
+    },
+    {
+        "question": "How does urban economics differentiate from regional economics and what are some of it's main themes?",
+        "answer": "While both deal with spatial economics, urban economics focuses on issues within a single city, while regional economics covers broader geographic areas.  O'Sullivan outlines six main themes in urban economics: market forces in city development, land use, urban transportation, urban problems and public policy, housing and public policy, and local government finance."
+    },
+    {
+        "question": "Why firms locates in isolated regions and how this affect market structure?",
+        "answer": "Firms might locate in isolated regions for various reasons, such as access to specific resources or lower operating costs.  Market structure isn't directly affected by isolation but the firm's market performance can be, facing less competition or higher transportation costs, for example."
+    },
+    {
+        "question": "What is spatial organization in urban economics and how does this relates to zoning?",
+        "answer": "Spatial organization refers to how different activities – residential, commercial, industrial – are arranged within a city. Zoning is a land-use control that directly influences spatial organization by regulating what can be built in specific areas."
+    },
+    {
+        "question": "How is economics policy implemented only at urban level and how this relates to urban problems?",
+        "answer": "Economic policy isn't only implemented at the urban level; it happens at national and regional levels too.  However, many economic policies have direct urban impacts.  Urban economics examines how policies can address urban problems like poverty and crime."
+    },
+    {
+        "question": "Why is housing a unique commodity and how does funding and uncertainty affect housing policies?",
+        "answer": "Housing is unique because it’s immobile; choosing a house means choosing a location.  Funding limitations and uncertainty about future economic conditions can make it difficult to implement effective housing policies."
+    },
+    {
+        "question": "How are local government expenditures funded and what is the role of perfect market structure in housing analysis?",
+        "answer": "Local governments are funded through various sources, such as property taxes, sales taxes, and intergovernmental transfers. The concept of a perfect market structure is a theoretical benchmark used in economic analysis, including housing, but real-world housing markets often deviate from this ideal."
+    },
+    {
+        "question": "What is the relationship between urban transportation and light-rail and how does this affect land use patterns?",
+        "answer": "Urban transportation, including options like light-rail, significantly influences land use patterns. Efficient transportation allows people to live further from work, leading to urban sprawl. Light-rail investments can stimulate development along their routes, changing how land is used."
+    }
+]
+
+

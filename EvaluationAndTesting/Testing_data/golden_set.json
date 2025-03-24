@@ -4209,5 +4209,84 @@
     {
         "question": "What is the Austrian school's view on the role of government in the economy?",
         "answer": "Generally, Austrian economists advocate for minimal government intervention and free markets, although there is some disagreement within the school on the extent of this."
-    }
+    },
+    {
+        "question": "What is heterodox economics?",
+        "answer": "Heterodox economics refers to schools of economic thought outside of mainstream economics. Its definition is relative and depends on the dominant schools of thought at a particular time."
+    },
+    {
+        "question": "What are some examples of heterodox economic approaches?",
+        "answer": "Austrian, ecological, Marxist-historical, post-autistic, and modern monetary theory are typically considered heterodox."
+    },
+    {
+        "question": "What are four key frames of analysis important to heterodox thought?",
+        "answer": "History, natural systems, uncertainty, and power."
+    },
+    {
+        "question": "When did early critiques of orthodox economics emerge?",
+        "answer": "The mid-19th century, with thinkers like Auguste Comte, Thomas Carlyle, John Ruskin, and Karl Marx."
+    },
+    {
+        "question": "What contributed to the decline of interest in some heterodox schools after the 1945?",
+        "answer": "The rise and mainstream absorption of Keynesian economics, which offered a seemingly more effective policy response to unemployment."
+    },
+    {
+        "question": "What characterized the mainstream economic position after 1945?",
+        "answer": "The neoclassical synthesis, combining Keynesian and neoclassical economics, dividing the field into microeconomics and macroeconomics."
+    },
+    {
+        "question": "Which heterodox schools remained active but with limited acceptance after 1945?",
+        "answer": "Marxist and institutionalist schools."
+    },
+    {
+        "question": "How has mainstream economics been influenced since around 1980?",
+        "answer": "By new research programs like behavioral economics, complexity economics, evolutionary economics, experimental economics, and neuroeconomics, with a shift towards empirically driven approaches."
+    },
+    {
+        "question": "What is a common critique of neoclassical economics by heterodox economists?",
+        "answer": "The assumption of rational maximizing behavior (homo economicus) and the focus on optimization and equilibrium."
+    },
+    {
+        "question": "What do heterodox economists often emphasize instead of optimization and equilibrium?",
+        "answer": "Institutions, history, and social structure."
+    },
+    {
+        "question": "What is a common heterodox critique of the 'homo economicus' model?",
+        "answer": "It oversimplifies human behavior and decision-making, neglecting social constraints, imperfect information, and alternative motivations."
+    },
+    {
+        "question": "What is the concept of 'thermoeconomics'?",
+        "answer": "The idea that human economic processes are governed by the second law of thermodynamics, relating economic theory to energy and entropy."
+    },
+    {
+        "question": "What is the International Student Initiative for Pluralist Economics?",
+        "answer": "A student movement advocating for more pluralism in economics education, including heterodox approaches."
+    },
+    {
+        "question": "Where can you find a list of current heterodox approaches?",
+        "answer": "In the Journal of Economic Literature (JEL) codes under JEL: B5."
+    },
+    {
+        "question": "What is an example of a transdisciplinary approach within heterodox economics?",
+        "answer": "Thermoeconomics, which applies principles of thermodynamics to economic processes."
+    },
+    {
+        "question": "What did David Colander suggest heterodox economists should do?",
+        "answer": "Embrace rigorous mathematics and work from within the mainstream, rather than treating it as an enemy."
+    },
+    {
+        "question": "What is the critique of the market equilibrium concept by some heterodox economists?",
+        "answer": "Microeconomic models, which rely on the concept of market equilibrium, rarely capture the complexity of real-world markets."
+    },
+    {
+        "question": "What has been a recent trend in heterodox economics?",
+        "answer": "A pluralist turn, with cross-fertilization of ideas and dialogue between different heterodox schools."
+    },
+    {
+        "question": "What did physical scientists and biologists first use energy flows to explain?",
+        "answer": "Social and economic development."
+    },
+    {
+        "question": "What is the role of 'The New Palgrave Dictionary of Economics' in the context of heterodox economics?",
+        "answer": "It lists some heterodox approaches."}
 ]
