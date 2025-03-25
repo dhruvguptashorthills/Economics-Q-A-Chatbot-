@@ -50,6 +50,8 @@ RAG project
 ├─ Scraper
 │  ├─ Scraper.py
 │  └─ list.txt
+├─ Unit Testing
+│  └─ test_rag_project.py
 ├─ app.py
 ├─ articles
 │  ├─ Aggregate_demand.txt
@@ -175,8 +177,15 @@ python EvaluationAndTesting/Evaluate_model.py
 
 The evaluation was conducted using a golden set of 1000+ Q&A pairs to measure the Semantic Similarity Score of the chatbot's responses.
 
-   - Mean Semantic Similarity Score: 0.6745
-   - Percentage of test cases above threshold(0.5): 80.17%
+   - Percentage of test cases above threshold(0.5): 80.05%
+   - **Semantic Similarity Score**: 0.6735
+   - **Rouge Score**: 0.3072
+   - **BLEU Score**: 0.0999
+   - **BERTScore**: 0.3490
+   - **Final Score**: 0.6735
+   - **Total Test Cases**: 1349
+   - **Passed Test Cases**: 1082
+   - **Failed Test Cases**: 267
 
 ## Technologies Used
 
